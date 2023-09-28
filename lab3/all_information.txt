@@ -1,0 +1,1857 @@
+[
+    {
+        "ad_link": "https://999.md/ro/84335016",
+        "name": "Geforce RTX 3070 FE 256bit / 8Gb Vram (Samsung)",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/d1eb01f5099f83b5e0a8a59b81ecfdb5.jpg",
+        "description": "Geforce RTX 3070 Founders Edition 256bit / 8Gb Vram\nPlaca video a fost folosita6-7  Luni, am folosit-o la gaming FULL HD, adus din Anglia.\nStare ca noua\nSet complet, inclusiv adaptor nativ la 8 pini\nAccept orice Test",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "400  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37367606417"
+    },
+    {
+        "ad_link": "https://999.md/ro/84349016",
+        "name": "GTX 960 4Gb.\u041d\u0430 \u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0438.",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/612c9f3198ddadd41ea49d77adc4e428.jpg",
+        "description": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u0432\u044b\u0434\u0430\u0435\u0442 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435,\u043d\u043e \u0441\u043b\u0435\u0442\u0430\u044e\u0442 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430 \u043f\u043e\u0441\u043b\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u0438 \u0438\u043d\u043e\u0433\u0434\u0430 \u0432\u044b\u0434\u0430\u0435\u0442 \u0441\u0438\u043d\u0438\u0439 \u044d\u043a\u0440\u0430\u043d,\u043f\u0440\u0438\u043b\u043e\u0436\u0443 \u0444\u043e\u0442\u043e.\n400 \u043b\u0435\u0439.\u0411\u0435\u0437 \u0442\u043e\u0440\u0433\u0430!",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "128 bit",
+            "Stare": "Pentru piese"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "400  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379107631"
+    },
+    {
+        "ad_link": "https://999.md/ro/84347628",
+        "name": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b - \u0441\u043a\u0438\u0434\u043a\u0438 \u043d\u0430 \u0432\u0441\u0435 \u043c\u043e\u0434\u0435\u043b\u0438!",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/b5d1b47bbb66d42236f34051980e6e0a.jpg",
+        "description": "www.gsmshop.md\n\n\u0417\u0430\u0445\u043e\u0434\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442 www.gsmshop.md \u0438 \u041f\u041e\u041a\u0423\u041f\u0410\u0419 \u043a\u0440\u0443\u0442\u0443\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u043f\u043e \u0421\u0423\u041f\u0415\u0420 \u0426\u0415\u041d\u0415 !!!\n\n\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u043c\u043e\u0434\u0435\u043b\u044c \u0438 \u041a\u0423\u041f\u0418\u0422\u042c \u0414\u0401\u0428\u0415\u0412\u041e \u043c\u043e\u0436\u043d\u043e \u043f\u043e \u0441\u0441\u044b\u043b\u043a\u0435  -->  https://www.gsmshop.md/category/view/vga.html\nwww.gsmshop.md\n\n\u041f\u0440\u043e\u0434\u0430\u0435\u043c \u0432 \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0443 0% !!!\nVindem in rate cu 0% !!!\n\n\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u044f !!!\nGarantie oficiala !!!\n\n\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u041c\u043e\u043b\u0434\u043e\u0432\u0435 !!!\nLivram in toata Moldova !!!\n\n\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u0432 \u043a\u0440\u0435\u0434\u0438\u0442 \u043d\u0430 \u043b\u0443\u0447\u0448\u0438\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 - \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u0432\u044b\u0433\u043e\u0434\u043d\u043e !!!\nVindem in credit avantajos pina la 24 luni !!!\n\nwww.gsmshop.md\n\nIntra pe www.gsmshop.md si CUMPARA placa video performanta la PRET EXCEPTIONAL !!!\n\nAlege model si cumpara IEFTIN aici  -->  https://www.gsmshop.md/ro/category/view/vga.html\nwww.gsmshop.md",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379115411"
+    },
+    {
+        "ad_link": "https://999.md/ro/6332459",
+        "name": "\u041b\u0443\u0447\u0448\u0438\u0435 \u0446\u0435\u043d\u044b \u043d\u0430 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b ! \u041d\u043e\u0432\u043e\u0435 \u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 !",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/3affa5fcfbd68a401c3229543e928e4a.jpg",
+        "description": "\u0421\u0430\u043c\u044b\u0435 \u043d\u0438\u0437\u043a\u0438\u0435 \u0446\u0435\u043d\u044b \u0438 \u043e\u0433\u0440\u043e\u043c\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438 PRIME COMPUTERS! \n\n\u041f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c \u043d\u043e\u0432\u044b\u0435 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b  \u0441\u043e \u0441\u043a\u0438\u0434\u043a\u043e\u0439 \u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0435\u0439 \u0434\u043e 24 \u043c\u0435\u0441\u044f\u0446\u0435\u0432.\n\n\u041f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442\u0435 \u043f\u043e \u0441\u0441\u044b\u043b\u043a\u0435, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0446\u0435\u043d\u044b \u043d\u0430 \u043d\u0430\u0448\u0435\u043c \u0441\u0430\u0439\u0442\u0435!!! \n\u0417\u0430\u043a\u0430\u0437\u044b\u0432\u0430\u0439\u0442\u0435 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b \u043d\u0430 https://prime-pc.md/catalog/videokarty \u0438\u043b\u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u043d\u0430\u0431\u0435\u0440\u0438\u0442\u0435 \u043d\u0430\u0441!\n\n*** Telegram https://t.me/primepcmd   *** Facebook https://www.facebook.com/PrimeComputersMoldova\n\n122\tASUS\t\n055306\tVGA Card ASUS Dual RTX 3060 Ti OC DUAL-RTX3060TI-O8GD6X (GeForce RTX 3060 Ti 8GB GDDR6X 1710/19000MHz 256-bit)\t11 214 MDL\n045752\tVGA Card ASUS DUAL-RTX2060-O6G-EVO (GeForce RTX 2060 6GB GDDR6 1785/14000MHz 192-bit)\t7 697 MDL\n050672\tVGA Card ASUS DUAL-RTX3050-O8G (GeForce RTX 3050 8GB GDDR6 1852/14000MHz 128-bit)\t7 418 MDL\n050920\tVGA Card ASUS DUAL-RTX3060-O12G-V2 (GeForce RTX 3060 12GB GDDR6 1867/15000MHz 192-bit)\t9 177 MDL\n047724\tVGA Card ASUS DUAL-RTX3070-O8G-V2 (GeForce RTX 3070 8GB GDDR6 1800/14000MHz 256-bit)\t13 513 MDL\n058215\tVGA Card ASUS DUAL-RTX4070-O12G (GeForce RTX 4070 12GB GDDR6X 2550/21000MHz 192-bit)\t16 607 MDL\n057406\tVGA Card ASUS DUAL-RX6650XT-O8G (Radeon RX 6650 XT 8GB 2669MHz GDDR6 128-bit)\t8 992 MDL\n031149\tVGA Card ASUS GT1030-2G-BRK (GeForce GT1030 DDR5 2GB 64-bit)\t2 272 MDL\n050666\tVGA Card ASUS GT730-4H-SL-2GD5 (GeForce GT730 2GB GDDR5 64-bit)\t2 140 MDL\n027122\tVGA Card ASUS Phoenix PH-GT1030-O2G (GeForce GT1030 2GB GDDR5 1531/6008MHz 64-bit)\t2 366 MDL\n041316\tVGA Card ASUS Phoenix PH-GTX1650-O4GD6 (GeForce GTX 1650 4GB GDDR6 1410/12002MHz 128-bit)\t4 809 MDL\n055386\tVGA Card ASUS Phoenix PH-GTX1650-O4GD6-P-V2 (GeForce GTX 1650 4GB GDDR6 1410/12002MHz 128-bit)\t4 809 MDL\n049376\tVGA Card ASUS PH-RTX3060-12G-V2 (GeForce RTX 3060 12GB GDDR6 1807/15000MHz 192-bit)\t9 177 MDL\n051576\tVGA Card ASUS PH-RX550-4G-EVO (Radeon RX 550 GDDR5 4GB 1183/6000MHz 128-bit)\t3 026 MDL\n057408\tVGA Card ASUS ROG-STRIX-RTX4090-O24G-GAMING (GeForce RTX 4090 24GB GDDR6X 2610/21000MHz 384-bit)\t48 033 MDL\n055168\tVGA Card ASUS RTX 4080 TUF Gaming OC Edition (GeForce RTX 4080 16GB GDDR6X 2625/22400MHz 256-bit)\t36 162 MDL\n056453\tVGA Card ASUS TUF RTX4070TI-12G-GAMING (GeForce RTX 4070 Ti 12GB GDDR6X 2640/21000MHz 192-bit)\t22 351 MDL\n047771\tVGA Card ASUS TUF-GTX1660TI-O6G-EVO-GAMING (GeForce GTX 1660 Ti 6GB GDDR6 1845/12000MHz 192-bit)\t7 418 MDL\n055158\tVGA Card ASUS TUF-RTX3060TI-O8GD6X-GAMING (GeForce RTX 3060 Ti 8GB GDDR6X 1785/19000MHz 256-bit)\t11 587 MDL\n051193\tVGA Card ASUS TUF-RTX3070-O8G-V2-GAMING (GeForce RTX 3070 8GB GDDR6X 1845/14000MHz 256-bit)\t14 006 MDL\n058537\tVGA Card ASUS TUF-RTX4090-O24G-GAMING (GeForce RTX 4090 24GB GDDR6X 2595/21000MHz 384-bit)\t46 212 MDL\n749\tASRock\t\n953\tBIOSTAR\t\n056230\tVGA Card BIOSTAR Gaming Radeon RX 550 BS VA5505RF21 (AMD Radeon RX 550 2GB GDDR5 1183/6000MHz 128-bit)\t2 366 MDL\n044505\tVGA Card BIOSTAR Gaming Radeon RX 560 BS VA5615RF41 (AMD Radeon RX 560 4GB GDDR5 1275/6000MHz 128-bit)\t3 120 MDL\n056232\tVGA Card BIOSTAR GeForce GT1030 4GB GDDR4 VN1034TB46 (GeForce GT1030 4GB GDDR4 1380/2000MHz 64-bit)\t2 574 MDL\n048097\tVGA Card BIOSTAR GeForce GT610 2GB GDDR3 VN6103THX6 (GeForce GT610 2GB GDDR3 700/1333MHz 64-bit)\t1 119 MDL\n048098\tVGA Card BIOSTAR GeForce GT710 2GB GDDR3 VN7103THX6 (GeForce GT710 2GB GDDR3 954/1333MHz 64-bit)\t1 364 MDL\n049549\tVGA Card BIOSTAR GeForce GT730 2GB GDDR3 VN7313THX1 (GeForce GT730 2GB GDDR3 700/1333MHz 128-bit)\t1 668 MDL\n057896\tVGA Card BIOSTAR GeForce GTX 1050 Ti 4GB GDDR5 VN1055TF41 (GeForce GTX 1050 Ti 4GB GDDR5 1392/7000MHz 128-bit)\t3 966 MDL\n056235\tVGA Card BIOSTAR GeForce RTX2060 SUPER 8GB GDDR6 VN2066RF82 (GeForce RTX2060 SUPER 8GB GDDR6 1650/14000MHz 256-bit)\t7 326 MDL\n123\tGIGABYTE\t\n058858\tVGA Card GIGABYTE GeForce RTX 4060 Ti AERO OC 8G GV-N406TAERO OC-8GD (GeForce RTX 4060 Ti 8GB GDDR6 2580/18000MHz 128-bit)\t12 704 MDL\n058861\tVGA Card GIGABYTE GeForce RTX 4060 Ti AORUS ELITE 8G GV-N406TAORUS E-8GD (GeForce RTX 4060 Ti 8GB GDDR6 2655/18000MHz 128-bit)\t13 634 MDL\n058859\tVGA Card GIGABYTE GeForce RTX 4060 Ti EAGLE 8G GV-N406TEAGLE-8GD (GeForce RTX 4060 Ti 8GB GDDR6 2535/18000MHz 128-bit)\t12 145 MDL\n058862\tVGA Card GIGABYTE GeForce RTX 4070 AORUS MASTER 12G GV-N4070AORUS M-12GD (GeForce RTX 4070 12GB GDDR6X 2595/21000MHz 192-bit)\t18 647 MDL\n057904\tVGA Card GIGABYTE GeForce RTX 4070 EAGLE OC GV-N4070EAGLE-OC-12GD (GeForce RTX 4070 12GB GDDR6X 2505/21000MHz 192-bit)\t17 163 MDL\n057905\tVGA Card GIGABYTE GeForce RTX 4070 Gaming OC GV-N4070GAMING OC-12GD (GeForce RTX 4070 12GB GDDR6X 2565/21000MHz 192-bit)\t17 720 MDL\n056129\tVGA Card GIGABYTE GeForce RTX 4070 Ti  Gaming OC GV-N407TGAMING OC-12GD (GeForce RTX 4070 Ti 12GB GDDR6X 2640/21000MHz 192-bit)\t22 351 MDL\n057906\tVGA Card GIGABYTE GeForce RTX 4070 WindForce OC GV-N4070WF3OC-12GD (GeForce RTX 4070 12GB GDDR6X 2490/21000MHz 192-bit)\t16 792 MDL\n055303\tVGA Card GIGABYTE GeForce RTX 4080 AORUS Master GV-N4080AORUS-M-16GD (GeForce RTX 4080 16GB GDDR6X 2550/22400MHz 256-bit)\t35 245 MDL\n055304\tVGA Card GIGABYTE GeForce RTX 4080 Gaming OC GV-N4080GAMING-OC-16GD (GeForce RTX 4080 16GB GDDR6X 2535/22400MHz 256-bit)\t34 327 MDL\n056126\tVGA Card GIGABYTE GeForce RTX 4090 AORUS Master GV-N4090AORUS M-24GD (GeForce RTX 4090 24GB GDDR6X 2550/21000MHz 384-bit)\t46 212 MDL\n056127\tVGA Card GIGABYTE GeForce RTX 4090 Gaming OC GV-N4090GAMING OC-24GD (GeForce RTX 4090 24GB GDDR6X 2535/21000MHz 384-bit)\t44 390 MDL\n046860\tVGA Card GIGABYTE GV-N1030D4-2GL (GeForce GT1030 1177/1417MHz 2100Mhz DDR4)\t2 083 MDL\n027220\tVGA Card GIGABYTE GV-N1030D5-2GL (GeForce GT1030 1252/1506MHz 2100Mhz DDR5 6008 MHz)\t2 329 MDL\n028020\tVGA Card GIGABYTE GV-N1030OC-2GI (GeForce GT1030 2048M 1544/6008MHz DDR5 64-bit)\t2 347 MDL\n042074\tVGA Card GIGABYTE GV-N1656OC-4GD (GeForce GTX 1650 4Gb 1635/12000Mhz DDR6 128bit)\t4 809 MDL\n035782\tVGA Card GIGABYTE GV-N710D3-2GL (GeForce GT710 2GB DDR3 64bit)\t1 271 MDL\n052773\tVGA Card GIGABYTE Radeon RX 6650 XT Gaming OC GV-R665XTGAMING OC-8GD (Radeon RX 6650 XT 8GB 2523/17500MHz GDDR6 128-bit)\t8 992 MDL\n058854\tVGA Card GIGABYTE Radeon RX 7600 Gaming OC GV-R76GAMING OC-8GD (Radeon RX 7600 8GB 2755/18000MHz GDDR6 128-bit)\t9 361 MDL\n050230\tVGA Card GIGABYTE RTX 3050 GAMING OC 8G GV-N3050GAMING OC-8GD (8GB 1777/14000Mhz GDDR6 128bit)\t7 511 MDL\n058698\tVGA Card GIGABYTE RTX 3050 WINDFORCE OC 8G GV-N3050WF2OC-8GD (8GB 1792/14000Mhz GDDR6 128bit)\t7 140 MDL\n057823\tVGA Card GIGABYTE RTX 3060 Eagle 12G GV-N3060EAGLE-12GD (12GB 1777/15000Mhz GDDR6 192bit)\t9 361 MDL\n045232\tVGA Card GIGABYTE RTX 3060 GAMING OC 12G GV-N3060GAMING OC-12GD (12GB 1780/15000Mhz GDDR6 192bit)\t9 730 MDL\n058855\tVGA Card GIGABYTE RTX 3060 GAMING OC 8G GV-N3060GAMING OC-8GD (8GB 1807/15000Mhz GDDR6 128bit)\t8 253 MDL\n044240\tVGA Card GIGABYTE RTX 3060 Ti 8GB GDDR6 Eagle OC GV-N306TEAGLE OC-8GD (8GB 1695/14000Mhz GDDR6 256bit)\t10 655 MDL\n057388\tVGA Card GIGABYTE RTX 3060 Ti 8GB GDDR6X Gaming OC GV-N306TXGAMING OC-8GD (8GB 1755/19000Mhz GDDR6X 256bit)\t11 214 MDL\n058856\tVGA Card GIGABYTE RTX 3060 Ti EAGLE OC D6X 8G GV-N306TXEAGLE OC-8GD (8GB 1680/19000Mhz GDDR6X 256bit)\t10 842 MDL\n058857\tVGA Card GIGABYTE RTX 3060 Ti WINDFORCE OC 8G GV-N306TWF2OC-8GD (8GB 1680/14000Mhz GDDR6 256bit)\t10 469 MDL\n047413\tVGA Card GIGABYTE RTX 3070 8GB GDDR6 Eagle GV-N3070EAGLE-8GD (8GB 1725/14000Mhz GDDR6 256bit)\t12 145 MDL\n047085\tVGA Card GIGABYTE RTX 3070 Ti 8GB GDDR6X Gaming OC GV-N307TGAMING OC-8GD (8GB 1830/19000Mhz GDDR6X 256bit)\t14 935 MDL\n047415\tVGA Card GIGABYTE RTX 3080 Vision OC 10G GV-N3080VISION OC-10GD (10Gb 1800/19000MHz 320bit GDDR6X)\t21 330 MDL\n126\tSapphire\t\n052034\tVGA Card Sapphire PULSE Radeon RX 6400 11315-01-20G (4GB GDDR6 RX 6400 64Bit 2321/16000Mhz)\t4 059 MDL\n055918\tVGA Card Sapphire PULSE Radeon RX 6500 XT OC 11314-01-20G (4GB DDR6 64Bit 2825/18000Mhz)\t5 463 MDL\n056817\tVGA Card Sapphire PULSE Radeon RX 7900 XTX 11322-02-20G (24GB DDR6 RX7900 XTX 384Bit 2525/20000Mhz)\t28 811 MDL\n046715\tVGA Card Sapphire Radeon R7 240 11216-35-20G (4GB DDR3 128Bit)\t1 876 MDL\n127\tZOTAC\t\n043706\tVGA Card ZOTAC GAMING GeForce GTX 1650 D6 AMP Core (4GB DDR6 1650/12000Mhz 128bit)\t4 903 MDL\n046485\tVGA Card ZOTAC GAMING GeForce RTX 3060 AMP White Edition ZT-A30600H-10M (12GB DDR6 1867/15000Mhz 192bit)\t9 822 MDL\n045634\tVGA Card ZOTAC GAMING GeForce RTX 3060 Twin Edge OC ZT-A30600H-10M (12GB DDR6 1807/15000Mhz 192bit)\t9 454 MDL\n055273\tVGA Card ZOTAC GAMING GeForce RTX 3070 Twin Edge LHR ZT-A30700E-10PLHR (8GB DDR6 1725/14000Mhz 256bit)\t12 145 MDL\n049617\tVGA Card ZOTAC GAMING GeForce RTX 3070 Twin Edge OC LHR ZT-A30700H-10PLHR (8GB DDR6 1755/14000Mhz 256bit)\t12 331 MDL\n055274\tVGA Card ZOTAC GAMING GeForce RTX 4090 AMP Extreme AIRO ZT-D40900B-10P (PCIeX16 4.0 24GB DDR6 2580/21000Mhz 384bit)\t46 030 MDL\n058272\tVGA Card ZOTAC GAMING GeForce RTX 4090 Trinity ZT-D40900D-10P (PCIeX16 4.0 24GB GDDR6X 2520/21000Mhz 384bit)\t43 478 MDL\n055271\tVGA Card ZOTAC GeForce GT710 ZT-71310-10L Active Cooling Lite Pack (2GB GT710 954/1600Mhz DDR3 64bit)\t1 195 MDL\n031440\tVGA Card ZOTAC GeForce GT730 Zone Edition ZT-71113-20L (2GB DDR3 64-bit)\t1 838 MDL\n038145\tVGA Card ZOTAC GeForce GT730 Zone Edition ZT-71115-20L (4GB DDR3 64-bit)\t2 102 MDL\n056797\tVGA Card ZOTAC GeForce RTX 3050 AMP ZT-A30500F-10M (8GB GDDR6 1830/14000Mhz 128bit)\t7 511 MDL\n058237\tVGA Card ZOTAC GeForce RTX 4070 Twin Edge OC ZT-D40700H-10M (12GB GDDR6X 2490/21000Mhz 192bit)\t16 978 MDL\n056014\tVGA Card ZOTAC GeForce RTX 4080 Trinity OC ZT-D40810J-10P (16GB GDDR6X 2520/22400Mhz 256bit)\t31 038 MDL\n056228\tVGA Card ZOTAC GeForce RTX 4080 Trinity ZT-D40810D-10P (16GB GDDR6X 2505/22400Mhz 256bit)\t33 409 MDL\n026806\tVGA Card ZOTAC ZT-P10300A-10L Single Fan (GeForce GT 1030 2GB 1468/6000Mhz DDR5 64bit)\t2 272 MDL\n130\tInno3D\t\n549\tMSI\t\n034988\tVGA Card MSI GeForce GTX 1660 Ti GAMING X 6G (6GB DDR6 1875/12000Mhz 192Bit) \u0431/\u0443\t4 492 MDL\n057213\tVGA Card MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC (8GB 1800/19000Mhz GDDR6X 256bit)\t14 749 MDL\n058702\tVGA Card MSI GeForce RTX 3080 SUPRIM X 10G LHR (10GB 1905/19000Mhz GDDR6X 320bit)\t18 462 MDL\n058571\tVGA Card MSI GeForce RTX 4080 16GB VENTUS 3X OC (16GB 2535/22400Mhz GDDR6X 256bit)\t33 960 MDL\n056610\tVGA Card MSI GeForce RTX 4080 GAMING X TRIO (16GB 2595/22400Mhz GDDR6X 256bit)\t34 786 MDL\n\n\n\nhttps://prime-pc.md/catalog/videokarty\n\n\n\n\n\n\u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b geforce\n\u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 radeon\n\u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b nvidia\n\u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b gtx\n\u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u0438\u0433\u0440\u044b",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368888055"
+    },
+    {
+        "ad_link": "https://999.md/ro/83307952",
+        "name": "Placa Video Rtx 3060 Dual OC NOU",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/3af1be0853b545acbeb12d10fe07c776.jpg",
+        "description": "Vand placa video Rtx 3060 Dual OC 8GB Nou\nGDDR6 128bit \nDirectX 12\nRay tracing\nCumparata in martie cu Garantie 3 ani",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "128 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "7 100  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369418730"
+    },
+    {
+        "ad_link": "https://999.md/ro/84347135",
+        "name": "R9 380 4gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/4a30c53a909db9e0be51108d261b9932.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 Sapphire Radeon R9 380 4GB \u0432 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u043b\u044e\u0431\u044b\u0435 \u0442\u0435\u0441\u0442\u044b \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u043e\u0431\u0441\u043b\u0443\u0436\u0435\u043d\u0430. \u0413\u0440\u0435\u0435\u0442\u0441\u044f \u0434\u043e 80 \u0433\u0440\u0430\u0434\u0443\u0441\u043e\u0432",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR5"
+        },
+        "Porturi": [
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "75  $",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37377991160"
+    },
+    {
+        "ad_link": "https://999.md/ro/84322678",
+        "name": "\u041d\u043e\u0432\u044b\u0439 Radeon RX 6650XT, \u0431\u044b\u0441\u0442\u0440\u0435\u0439 \u0447\u0435\u043c RTX 3060",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/653d444e8339054f031c3c2a13d4f111.jpg",
+        "description": "\u041d\u043e\u0432\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430\n\nRadeon RX 6650 XT MSI Gaming X 8gb GDDR6\n\n\nhttps://ru.msi.com/Graphics-Card/Radeon-RX-6650-XT-GAMING-X-8G/Overview\n\n\nTDP 175 \u0412\u0442\n8 \u043f\u0438\u043d \u043a\u043e\u043d\u043d\u0435\u043a\u0442\u043e\u0440.\n\n\u0412 \u0438\u0433\u0440\u0430\u0445 \u0432\u0435\u0437\u0434\u0435 \u0431\u044b\u0441\u0442\u0440\u0435\u0439 RTX 3060\n\nhttps://youtu.be/4cIBgWesp3M?t=34",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "128 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "5 700  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369103627"
+    },
+    {
+        "ad_link": "https://999.md/ro/84346792",
+        "name": "Asus GeForce RTX 3060 12Gb GDDR6 (Samsung)",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/a13c570b865caffc514ecd4ccbdc3059.jpg",
+        "description": "Asus GeForce RTX3060 12Gb GDDR6. Memory Samsung\n\nStare perfecta, ca noua. Utilizata extrem de putin.\n\u0418\u0434\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u043a\u0430\u043a \u043d\u043e\u0432\u0430\u044f. \u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438\u0441\u044c \u043e\u0447\u0435\u043d\u044c \u043c\u0430\u043b\u043e.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "12 GB",
+            "Tip memorie": "GDDR6"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "5 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379428289"
+    },
+    {
+        "ad_link": "https://999.md/ro/84316198",
+        "name": "\u041d\u043e\u0432\u044b\u0439 GeForce RTX 4070 Gigabyte",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/3dbb2c1c3358fe8494be34bd4079380e.jpg",
+        "description": "\u041d\u043e\u0432\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430.\n\nGeForce RTX 4070 Gigabyte Windforce OC 12G\n\n\u041a\u043e\u043c\u043f\u0430\u043a\u0442\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440. \n\u041e\u0434\u0438\u043d 8-\u043f\u0438\u043d \u0440\u0430\u0437\u044a\u0435\u043c \u043f\u0438\u0442\u0430\u043d\u0438\u044f.\n\nhttps://www.gigabyte.com/Graphics-Card/GV-N4070WF3OC-12GD#kf",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "12 GB",
+            "Tip memorie": "GDDR6X",
+            "BUS memorie": "192 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "12 800  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360780568"
+    },
+    {
+        "ad_link": "https://999.md/ro/81764858",
+        "name": "Asrock Radeon RX6900XT GDDR6 16GB 256bit - Placa video NOUA ! Garantie 2 ani",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/fef47d9449ed9baa198508d1086970e4.jpg",
+        "description": "Placa grafica NOUA - Asrock Radeon RX6900XT\nGarantie 2 ani\nLivrare pe \u00eentreg teritoriul Republicii Moldova!\n\n### Accept\u0103m plata cu carduri bancare (inclusiv LiberCard).\n### Posibilitate de achitare prin transfer sau cash.\n### Compania este pl\u0103titoare de TVA.\n\nSpecifica\u021bii Asrock Radeon RX6900XT:\n==============================\nMemory: 16GB GDDR6\nBUS Memory: 256bit\nFrequency Memory: 16000 MHz\nGPU: 2425 MHz\nMemory Bandwidth: 512 GB/s\n\nLink produs:\nhttps://mifit.md/ru/katalog/komponenty/videokarty-amd/radeon-rx6900xt-gddr6-16gb-256bit-1732\n========================================\n\nNe pute\u021bi contacta prin:\nViber / WhatsApp / Telegram: +37368042999\n\nSau ne pute\u021bi vizita la urm\u0103toarele adrese: \n========================================\nChi\u0219in\u0103u - Str-la Studen\u021bilor 2/4 (CC \"MIF\")\n========================================\nDe luni p\u00e2n\u0103 vineri: 09:00 - 17:30\nS\u00e2mb\u0103t\u0103: 09:00 - 13:00 - f\u0103r\u0103 consultan\u021bi\nDuminic\u0103: La solicitare\n\nDac\u0103 ave\u021bi careva \u00eentreb\u0103ri sau propuneri nu ezita\u021bi s\u0103 ne contacta\u021bi,\nCu respect, echipa Digital-MIF.",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "256 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "18 990  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368042999"
+    },
+    {
+        "ad_link": "https://999.md/ro/83650618",
+        "name": "ZOTAC GTX 1050 Ti Mini 4Gb -\u041e\u043a\u043d\u0438\u0446\u0430-",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/0f7037433d5fc0a78f033d306aba060b.jpg",
+        "description": "https://www.zotac.com/us/product/graphics_card/zotac-geforce-gtx-1050-ti-mini#spec",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "4GB"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 500  lei",
+        "region": "Moldova Ocni\u021ba",
+        "contact": "tel:+37367387954"
+    },
+    {
+        "ad_link": "https://999.md/ro/81449036",
+        "name": "Nvidia 3070Ti FE (Founder Edition)",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/183730dcd8d91a1ed350a86346591eae.jpg",
+        "description": "O folosesc din 5 ianuarie in Motion Design!\nAm luat-o noua sigilata!\nNu a fost desfacuta, reparata, sau alt ceva! Nu a fost pe mining - fac orice test.\nNu negociez!\n\nO vand caci mi-au daruit alta versiune!\n\ncine doreste - o ia, o aduc eu daca vb de chisinau! \ncine nu, poate sa caute alte variante, sunt o sumedenie!\n\nraspund la mesaje!",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "580  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/84344608",
+        "name": "\u041f\u0440\u043e\u0434\u0430\u043c Hd6770 1gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/7ff0dd37d1735d1526cae416d401bc43.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 Hd 6770.\n\u0412 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438.\n\u0422\u0435\u0441\u0442\u044b \u0432 \u0438\u0433\u0440\u0430\u0445:youtube.com/watch?v=B9mUl4nb1-8&t=566s\nyoutube.com/watch?v=B9mUl4nb1-8&t=52s",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "1 GB",
+            "Tip memorie": "GDDR5"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/84344561",
+        "name": "Rx 470 4gb sapphire",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/14e95965a6161a9f6c826810b3db481b.jpg",
+        "description": "\u041b\u044e\u0431\u044b\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438, \u0431\u043e\u0442\u0430\u043d\u0438\u043a\u0430",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369655545"
+    },
+    {
+        "ad_link": "https://999.md/ro/84344421",
+        "name": "Zotac 1060 3gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/85e5c2edfa2045d40631189d6dd94c1f.jpg",
+        "description": "\u041b\u044e\u0431\u044b\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438, \u0431\u043e\u0442\u0430\u043d\u0438\u043a\u0430",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Porturi": [
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369655545"
+    },
+    {
+        "ad_link": "https://999.md/ro/84344151",
+        "name": "Sapphire HD7950 Vapor-X, 3GB, GDDR5",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/9b350266f6f9d93243f1a884297174f8.jpg",
+        "description": "Sapphire HD7950 Vapor-X \u0441 \u0434\u043e\u043f-\u043f\u0438\u0442\u0430\u043d\u0438\u0435\u043c, \u0432 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438.\n- \u041e\u0431\u044a\u0451\u043c \u043f\u0430\u043c\u044f\u0442\u0438: 3 GB\n- \u0422\u0438\u043f \u043f\u0430\u043c\u044f\u0442\u0438: GDDR5\n- \u0428\u0438\u043d\u0430 \u043f\u0430\u043c\u044f\u0442\u0438: 384 Bit\n\u0412\u043c\u0435\u0441\u0442\u0435 \u0441 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u043e\u0439 \u043e\u0442\u0434\u0430\u043c \u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0443\u044e \u043a\u043e\u0440\u043e\u0431\u043a\u0443.\n\u0426\u0435\u043d\u0430 - 750 \u0440\u0443\u0431\u043b\u0435\u0439.",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "3 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "384 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "750  lei",
+        "region": "Moldova Bender mun.",
+        "contact": "tel:+37377884523"
+    },
+    {
+        "ad_link": "https://999.md/ro/84344063",
+        "name": "Asus 1060 3gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/ce69caab03ce33f19384a0357a98a5c6.jpg",
+        "description": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u0432 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438. \u041b\u044e\u0431\u044b\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438. \u041d\u0430\u0445\u043e\u0434\u0438\u043c\u0441\u044f \u043d\u0430 \u0431\u043e\u0442\u0430\u043d\u0438\u043a\u0435.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Porturi": [
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369655545"
+    },
+    {
+        "ad_link": "https://999.md/ro/84105081",
+        "name": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 9600GT 512mb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/74a53443ac1342df12e44c7654a31f22.jpg",
+        "description": "\u041d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430,\u043a\u0430\u043a \u0437\u0430\u0442\u044b\u0447\u043a\u0430,\u0442\u0430\u043a \u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0435\u043d\u044c\u043a\u0438\u0445 \u0438\u0433\u0440.\n\u041f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0440\u0430\u0431\u043e\u0447\u0430\u044f.\n512mb GDDR3 256bit.\n\u0426\u0435\u043d\u0430 - 200 \u043b\u0435\u0439.\u0411\u0435\u0437 \u0442\u043e\u0440\u0433\u0430.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "mai pu\u021bin de 1 GB",
+            "Tip memorie": "GDDR3",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "200  lei",
+        "region": "Moldova B\u0103l\u021bi mun.",
+        "contact": "tel:+37379107631"
+    },
+    {
+        "ad_link": "https://999.md/ro/81806335",
+        "name": "Asus AMD Radeon RX 6800 XT 16GB 4K TUF Gaming Noua , Nu este folosita 1000%",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/3295487af9736639758309a42f2442b9.jpg",
+        "description": "Asus AMD Radeon RX 6800 XT 16GB 4K TUF Gaming Noua , Nu este folosita 1000%",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "780  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368190787"
+    },
+    {
+        "ad_link": "https://999.md/ro/84342912",
+        "name": "XFX R7900 3Gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/2c87b06581fd6df38b431bab8b347b65.jpg",
+        "description": "Vind la piese.ESTE Defect!\n\u041d\u0430 \u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0438.\u041d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442!",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "3 GB",
+            "Tip memorie": "GDDR2",
+            "BUS memorie": "128 bit",
+            "Stare": "Pentru piese"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368675509"
+    },
+    {
+        "ad_link": "https://999.md/ro/84193202",
+        "name": "Top RTX 3080 Ti iCHILL X4  NEW",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/30bb00c02c1014bfc5069d7cdfc4b2c0.jpg",
+        "description": "Vind cartela noua RTX 3080ti  de la ino3D, este cu cel mai de top sistem de racire din serie, se accepta orice test!",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "675  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368723969"
+    },
+    {
+        "ad_link": "https://999.md/ro/84342882",
+        "name": "Gtx 1060 6gb 192bit",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/2652a860f200e8645ea4c1f83386f23f.jpg",
+        "description": "\u041b\u044e\u0431\u044b\u0435 \u0442\u0435\u0441\u0442\u044b, \u0432\u0441\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u043e\u0442\u043b\u0438\u0447\u043d\u043e",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "192 bit"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 200  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/84342623",
+        "name": "GeForce GTX980 4GB",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/6107536acc6770e408fc2e1b4456eb3e.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c GeForce GTX980 4GB \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u0438 \u0432\u043e\u0434\u043e \u0431\u043b\u043e\u043a \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0444\u043e\u0442\u043e 1\u0438 2    \u0420\u0430\u0434\u0438\u0430\u0442\u043e\u0440 , \u043f\u043e\u043c\u043f\u0430 \u0438 \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440\u044b \u043f\u0440\u043e\u0434\u0430\u044e\u0442\u0441\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e!!!!  \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0444\u043e\u0442\u043e3.4.5.6.\n\n\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u0432 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u043f\u043e\u0434 \u043d\u0430\u0433\u0440\u0443\u0437\u043a\u043e\u0439 47 \u0433\u0440\u0430\u0434\u0443\u0441\u043e\u0432.\n\u041f\u0435\u0440\u0435\u0434 \u043f\u0440\u043e\u0434\u0430\u0436\u0435\u0439 \u043b\u044e\u0431\u044b\u0435 \u0442\u0435\u0441\u0442\u044b \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438.\n \nhttps://videocardz.com/53130/aqua-computer-intros-kryographics-gtx-980-full-cover-water-block\n\n\u0426\u0435\u043d\u0430  \u0437\u0430 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u0438 \u0432\u043e\u0434\u043e\u0431\u043b\u043e\u043a  1800",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "1 800  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37378171506"
+    },
+    {
+        "ad_link": "https://999.md/ro/84342610",
+        "name": "gtx650, gtx760, rx 560, gtx960, gtx980 ti, rx 580 \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/6d0cf6cf6437493255c9a8475ee0e60d.jpg",
+        "description": "HP NVIDIA QUADRO NVS290 [256MB/64bit/DDR2/DMS59 + Adapter 2DVI] - 200 \u043b\u0435\u0439\n\nHP NVIDIA QUADRO NVS300 [512MB/64bit/DDR3/DMS59 + Adapter 2DVI] - 300 \u043b\u0435\u0439\n\nAMD RADEON HD5450 [512MB/64bit/DDR3/DMS59 + Adapter 2DVI] - 300 \u043b\u0435\u0439\n\nNVIDIA GEFORCE 9500GT [512MB/128bit/DDR2/VGA/DVI/HDMI] - 400 \u043b\u0435\u0439\n\nNVIDIA GEFORCE GT440 [512MB/128bit/DDR5/VGA/DVI/HDMI] - 500 \u043b\u0435\u0439\n\nSAPPHIRE RADEON HD5670 [1GB/128bit/DDR5/DVI/HDMI/DP] - 800 \u043b\u0435\u0439\n\nASUS GEFORCE GTX 650 [1GB/128bit/DDR5/DVI-D/HDMI/DP/6pin] - 1000 \u043b\u0435\u0439\n\nEVGA GEFORCE GTX 760 [2GB/256bit/DDR5/2xDVI/HDMI/DP/8pin] - 1500 \u043b\u0435\u0439\n\nASUS GEFORCE GTX 760 [2GB/256bit/DDR5/2xDVI/HDMI/DP/8pin] - 1500 \u043b\u0435\u0439\n\nKFA2 GEFORCE GTX960 [4GB/128bit/DDR5/VGA/DVI/HDMI/DP/8pin] - 2000 \u043b\u0435\u0439\n\nSAPPHIRE NITRO RX580 [8GB/256bit/DDR5/DVI/2xHDMI/2xDP/6+8pin] - 3000 \u043b\u0435\u0439\n\nEVGA GEFORCE GTX980 Ti [6GB/384bit/DDR5/DVI/HDMI/3xDP/6+8pin] - 3000 \u043b\u0435\u0439\n\n=================================================================================\n\n\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b \u043f\u043e\u0441\u043b\u0435 \u043c\u043e\u0434\u0435\u0440\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u0440\u0430\u0437\u0431\u043e\u0440\u043e\u043a \u041f\u041a, \u0432 \u043c\u0430\u0439\u043d\u0438\u043d\u0433\u0435 \u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438\u0441\u044c.\n\n\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u0432 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u0440\u0430\u0431\u043e\u0447\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438, \u043f\u0440\u043e\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043e\u0439 3DMARK \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u043c\u0435\u0442\u043e\u0434\u0430\u043c\u0438.\n\nPS: \u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0435\u0441\u0442\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u043c\u043e\u0434\u0435\u043b\u0438 \u043c\u043e\u0449\u043d\u044b\u0445 \u0431\u043b\u043e\u043a\u043e\u0432 \u043f\u0438\u0442\u0430\u043d\u0438\u044f \u0441 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u044c\u044e.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379507287"
+    },
+    {
+        "ad_link": "https://999.md/ro/84342520",
+        "name": "\u0418\u0433\u0440\u043e\u0432\u0430\u044f MSI GeForce GTX 1060 Gaming X 3G \u043e\u0431\u043c\u0435\u043d",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/e4c277b1f9867997baacba1146344256.jpg",
+        "description": "https://ru.msi.com/Graphics-Card/GeForce-GTX-1060-GAMING-X-3G.html\n\n\u043b\u044e\u0431\u044b\u0435 \u0442\u0435\u0441\u0442\u044b\n\n\u041a\u0430\u0440\u043e\u0431\u043a\u0430 \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442\n\n\u043b\u0443\u0447\u0448\u0430\u044f \u0438\u0437 \u043b\u0438\u043d\u0435\u0439\u043a\u0438 1060 Gaming X 3G\n\n\u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0439\u043d\u0430\u044f \u043f\u043b\u043e\u043c\u0431\u0430 \u0443\u0436\u0435 \u0441\u043d\u044f\u0442\u0430 \u0431\u044b\u043b\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0430 \u043f\u0440\u043e\u0444\u0438\u043b\u0430\u043a\u0442\u0438\u043a\u0430 \u0438 \u0437\u0430\u043c\u0435\u043d\u0430 \u0442\u0435\u0440\u043c\u043e\u043f\u0430\u0441\u0442\u044b\n\n\u0422\u0415\u0421\u0422 \u0422\u0423\u0422https://youtu.be/gobg_9_8NpM\n\n[\u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u043e\u0431\u043c\u0435\u043d \u043d\u0430 \u0432\u0430\u0448\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435]",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "3 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "3 000  lei",
+        "region": "Moldova Cahul",
+        "contact": "tel:+37367219412"
+    },
+    {
+        "ad_link": "https://999.md/ro/83196128",
+        "name": "\u041f\u0440\u043e\u0434\u0430\u043c Zotac GeForce RTX 2060",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/c9004cccd2d8acba75715a98138aac90.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c  \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 Zotac Gaming GeForce RTX 2060 \u0441 6 Gb \u043f\u0430\u043c\u044f\u0442\u0438. \u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f - IceStorm 2.0.\n     \u0422\u0435\u0441\u0442\u044b \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 \"\u043e\u0442\u043b\u0438\u0447\u043d\u043e\". \u0413\u0440\u0435\u0435\u0442\u0441\u044f \u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e.\n     \n     \u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0447\u043a\u0443 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b: https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-2060-1",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "5 300  lei",
+        "region": "Moldova B\u0103l\u021bi mun.",
+        "contact": "tel:+37369138765"
+    },
+    {
+        "ad_link": "https://999.md/ro/83196053",
+        "name": "\u041f\u0440\u043e\u0434\u0430\u043c MSI GeForce GTX 1660 Super Gaming X",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/24e9ca534986f8a882cc88eb8c0ee385.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c  \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 MSI GeForce GTX 1660 Super Gaming X \u0441 6 Gb \u043f\u0430\u043c\u044f\u0442\u0438. \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f - MSI Twin Frozr 7.\n     \u0422\u0435\u0441\u0442\u044b \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 \"\u043e\u0442\u043b\u0438\u0447\u043d\u043e\". \u0413\u0440\u0435\u0435\u0442\u0441\u044f \u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e.\n     \n     \u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0447\u043a\u0443 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b: MSI GeForce GTX 1660 Super Gaming X",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "3 900  lei",
+        "region": "Moldova B\u0103l\u021bi mun.",
+        "contact": "tel:+37369138765"
+    },
+    {
+        "ad_link": "https://999.md/ro/84342315",
+        "name": "Sapphire NITRO+ RX 570 8G",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/02e7f3d04ed3f9ba066a51cbfc0b27c0.jpg",
+        "description": "\u041a\u0430\u0440\u0442\u0430 \u0432 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0438\u0433\u0440\u0430\u0445, \u043f\u0440\u043e\u0434\u0430\u044e \u0442\u0430\u043a \u043a\u0430\u043a \u043a\u0443\u043f\u0438\u043b \u043d\u043e\u0432\u0443\u044e.\n\u0414\u043b\u044f \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u044b\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0437\u0432\u043e\u043d\u0438\u0442\u0435 \u0438\u043b\u0438 \u043f\u0438\u0448\u0438\u0442\u0435 \u043d\u0430 \u0441\u0430\u0439\u0442.",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "256 bit"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 300  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379746433"
+    },
+    {
+        "ad_link": "https://999.md/ro/84342293",
+        "name": "Asus Rog Strix Geforce RTX 3070TI",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/76717debb968d62034d4f27058130fb9.jpg",
+        "description": "ASUS ROG STRIX GEFORCE RTX 3070TI",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "500  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360449420"
+    },
+    {
+        "ad_link": "https://999.md/ro/84341604",
+        "name": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b - \u0441\u043a\u0438\u0434\u043a\u0438 \u043d\u0430 \u0432\u0441\u0435 \u043c\u043e\u0434\u0435\u043b\u0438!",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/b5d1b47bbb66d42236f34051980e6e0a.jpg",
+        "description": "www.gsmshop.md\n\n\u0417\u0430\u0445\u043e\u0434\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442 www.gsmshop.md \u0438 \u041f\u041e\u041a\u0423\u041f\u0410\u0419 \u043a\u0440\u0443\u0442\u0443\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u043f\u043e \u0421\u0423\u041f\u0415\u0420 \u0426\u0415\u041d\u0415 !!!\n\n\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u043c\u043e\u0434\u0435\u043b\u044c \u0438 \u041a\u0423\u041f\u0418\u0422\u042c \u0414\u0401\u0428\u0415\u0412\u041e \u043c\u043e\u0436\u043d\u043e \u043f\u043e \u0441\u0441\u044b\u043b\u043a\u0435  -->  https://www.gsmshop.md/category/view/vga.html\nwww.gsmshop.md\n\n\u041f\u0440\u043e\u0434\u0430\u0435\u043c \u0432 \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0443 0% !!!\nVindem in rate cu 0% !!!\n\n\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u044f !!!\nGarantie oficiala !!!\n\n\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u041c\u043e\u043b\u0434\u043e\u0432\u0435 !!!\nLivram in toata Moldova !!!\n\n\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u0432 \u043a\u0440\u0435\u0434\u0438\u0442 \u043d\u0430 \u043b\u0443\u0447\u0448\u0438\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 - \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u0432\u044b\u0433\u043e\u0434\u043d\u043e !!!\nVindem in credit avantajos pina la 24 luni !!!\n\nwww.gsmshop.md\n\nIntra pe www.gsmshop.md si CUMPARA placa video performanta la PRET EXCEPTIONAL !!!\n\nAlege model si cumpara IEFTIN aici  -->  https://www.gsmshop.md/ro/category/view/vga.html\nwww.gsmshop.md",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379115411"
+    },
+    {
+        "ad_link": "https://999.md/ro/63480251",
+        "name": "Msi, Asus, Zotac, Gigabyte, PNY, KFA2 - RTX 4090, 4080, 4070Ti, 4070, 4060Ti, 4060, 3070, 3060",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/449ad9885ffc8ec47662511fe12965a1.jpg",
+        "description": "\u0413\u0430\u0440\u0430\u043d\u0442\u0438\u044f 3 \u0433\u043e\u0434\u0430\n\n\u0426\u0435\u043d\u044b \u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435:\nhttp://electro.md/detali-soft/videocards?sort=p.price&order=ASC&limit=100\n\nGigabyte GeForce RTX 3050 8GB Windforce OC\nASUS GeForce RTX 3050 8GB Dual OC V2\nASUS GeForce RTX 3050 8GB Phoenix V2\nZOTAC GeForce RTX 3050 Twin Edge 8GB\n\nASUS GeForce RTX 3060 Dual OC 8GB\nGigabyte GeForce RTX 3060 GAMING OC 8GB\n\nASUS GeForce RTX 3060 Phoenix V2 LHR 12GB\nGigabyte GeForce RTX 3060 GAMING OC 12GB\n\nGigabyte GeForce RTX 3060Ti GAMING OC 8GB\nZOTAC GeForce RTX 3060Ti Twin Edge OC LHR 8GB\nASUS GeForce RTX 3060Ti Dual GDDR6X 8GB\nASUS GeForce RTX 3060Ti TUF Gaming OC GDDR6X 8GB\n\nZOTAC GeForce RTX 3070 Twin Edge 8GB\nBIOSTAR GeForce RTX 3070 8GB\n\nGIGABYTE GeForce RTX 4060 Gaming OC 8GB\nGIGABYTE GeForce RTX 4060 WindForce OC 8GB\nZOTAC GeForce RTX 4060 Spider-Man OC Edition 8GB\nZOTAC GeForce RTX 4060 Twin Edge OC White 8GB\nASUS GeForce RTX 4060 Dual OC 8GB\nASUS GeForce RTX 4060 ProArt 8GB\n\nGIGABYTE GeForce RTX 4060Ti Gaming OC 16GB\nGIGABYTE GeForce RTX 4060Ti Aero OC 16GB\nASUS GeForce RTX 4060Ti Dual OC 16GB\n\nGIGABYTE GeForce RTX 4060Ti Gaming OC 8GB\nGIGABYTE GeForce RTX 4060Ti AORUS Elite 8GB\nZOTAC GeForce RTX 4060Ti Twin Edge 8GB\nASUS GeForce RTX 4060Ti Dual White Edition OC 8GB\nASUS GeForce RTX 4060Ti Dual OC 8GB\nKFA2 GeForce RTX 4060Ti X Black 8GB\nMSI GeForce RTX 4060Ti GAMING X 8G\n\nGIGABYTE GeForce RTX 4070 AORUS Master 12GB\nGIGABYTE GeForce RTX 4070 Eagle OC 12GB\nGIGABYTE GeForce RTX 4070 Gaming OC 12GB\nGIGABYTE GeForce RTX 4070 WindForce OC 12GB\nZOTAC GeForce RTX 4070 Twin Edge OC 12GB\nMSI GeForce RTX 4070 GAMING X TRIO 12GB\nASUS GeForce RTX 4070 DUAL OC 12GB\nASUS GeForce RTX 4070 TUF Gaming OC 12GB\nPALIT GeForce RTX 4070 Dual OC 12GB\n\nZOTAC GeForce RTX 4070Ti Trinity 12GB\nPNY GeForce RTX 4070Ti VERTO EPIC-X RGB OC 12GB\nGIGABYTE GeForce RTX 4070Ti Aorus Elite 12GB\nASUS GeForce RTX 4070Ti TUF Gaming 12GB\nASUS GeForce RTX 4070Ti TUF Gaming OC 12GB\n\nASUS GeForce RTX 4080 ROG Strix Gaming OC 16GB\nASUS GeForce RTX 4080 TUF Gaming 16GB\nASUS GeForce RTX 4080 TUF Gaming OC 16GB\nMSI GeForce RTX 4080 VENTUS 3X OC 16GB\nGIGABYTE GeForce RTX 4080 Gaming OC 16GB\nGIGABYTE GeForce RTX 4080 AORUS Master 16GB\n\nZOTAC GeForce RTX 4090 AMP Extreme AIRO 24GB\nZOTAC GeForce RTX 4090 Trinity 24GB\nASUS GeForce RTX 4090 TUF Gaming OC 24GB\nASUS GeForce RTX 4090 ROG Strix Gaming OC 24GB\nGIGABYTE GeForce RTX 4090 AORUS Master 24GB\nGIGABYTE GeForce RTX 4090 Gaming OC 24GB\n\n\u0426\u0435\u043d\u044b \u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435:\nhttp://electro.md/detali-soft/videocards?sort=p.price&order=DESC&limit=100",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "BUS memorie": "384 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369800667"
+    },
+    {
+        "ad_link": "https://999.md/ro/84161837",
+        "name": "Asus Radeon Rx550 4Gb Gddr5 Phoenix Evo",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/cf0479af11ca681226a56011374e5085.jpg",
+        "description": "Videocartela este absolut noua la cutie, a fost cumparata pu un proiect dar nu a mai fost asamblata deoarece trebuia ceva pai puternic!!!\n\nAMD Radeon RX 550, 4GB GDDR5, Engine 1183MHz, Memory 6000MHz, Active Cooling, DVI-D *1, HDMI-2.0b *1, Display Port-1.4 *1, Recommended PSU -350W\n\n\nhttps://www.asus.com/Motherboards-Components/Graphics-Cards/Phoenix/PH-RX550-4G-EVO/",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "192 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37376677926"
+    },
+    {
+        "ad_link": "https://999.md/ro/81465662",
+        "name": "Gigabyte RTX 2060 6GB OC 4800 \u043b\u0435\u0439",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/fec851f9c045ffe13e42717f3ee63fab.jpg",
+        "description": "\u0412 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0430\u0441\u044c \u0432 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 \u0434\u043b\u044f \u0438\u0433\u0440",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "4 800  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369759993"
+    },
+    {
+        "ad_link": "https://999.md/ro/81510543",
+        "name": "Puls RX 570 8GB",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/ecf6386df87a68b8799326f856f93807.jpg",
+        "description": null,
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "120  $",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369278657"
+    },
+    {
+        "ad_link": "https://999.md/ro/84207442",
+        "name": "MSI Ventus 2X RTX 3070 8GB LHR",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/5c76e4a916c3612d1702e40f39e1af84.jpg",
+        "description": "MSI Gaming GeForce RTX 3070 LHR 8GB GDRR6 256-Bit HDMI/DP Nvlink Torx Fan 2 Ampere Architecture OC Graphics Card (Ventus 2X)\n\nStare ideala, folosita usor mai putin de 1 an la display de 60Hz nu a fost fortata, sunt unicul proprietar si am folosito in calculatorul personal, nici un fel de mining nu a fost facut, nu a fost deschisa sau reparata niciodata.\n\nscrieti pe site sau sunati, nu schimb, nu trimit prin posta.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "410  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37378210271"
+    },
+    {
+        "ad_link": "https://999.md/ro/84163549",
+        "name": "Asus K.O. RTX 3060 Ti 8GB V2 - Ca Nou\u0103, Garan\u021bie 2025",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/31d08e481b47d4fa741aec4fe136dab7.jpg",
+        "description": "Ca 4060 Ti \u0219i 2080 Super, cu 20-30% mai puternica ca 3060. Stare ca nou\u0103.\n\nVersiune rar\u0103 - Asus KO erau cele mai scumpe 3060/3070 pe 2 ventilatoare, a\u0219a model g\u0103sisem \u00een stock doar \u00een Rom\u00e2nia.\n\nOrice test\u0103ri pe loc. Plomba la loc, prin reparatii nu a fost. Cutia \u0219i tot setul. Furmark, GPU-z, garan\u021bia - \u00een poze.\n\n[RU]\n\u041f\u043e \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 \u0443\u0440\u043e\u0432\u043d\u0435 4060 Ti \u0438 2080 \u0421\u0443\u043f\u0435\u0440, \u043d\u0430 20-30% \u043c\u043e\u0449\u043d\u0435\u0435 3060 \u043e\u0431\u044b\u0447\u043d\u043e\u0439.. \u041f\u043b\u043e\u043c\u0431\u0430 \u043d\u0430 \u043c\u0435\u0441\u0442\u0435. \u0421\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u043d\u043e\u0432\u043e\u0439\n\n\u041b\u044e\u0431\u044b\u0435 \u0442\u0435\u0441\u0442\u044b \u043d\u0430 \u043c\u0435\u0441\u0442\u0435.\n\n\u0421\u0430\u043c\u0430\u044f \u0442\u043e\u043f\u043e\u0432\u0430\u044f RTX 3060 Ti \u043d\u0430 2 \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440\u0430. \u0420\u0435\u0434\u043a\u0430\u044f \u043a\u0430\u0440\u0442\u0430, \u0442\u0430\u043a\u0438\u0445 \u0431\u044b\u043b\u043e \u043d\u0430\u0439\u0442\u0438 \u043e\u0447\u0435\u043d\u044c \u0441\u043b\u043e\u0436\u043d\u043e \u0438 \u0441\u0442\u043e\u0438\u043b\u0438 \u043e\u043d\u0438 \u0434\u043e\u0440\u043e\u0436\u0435 \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u043e\u0432. \u041f\u043e\u043a\u0443\u043f\u0430\u043b \u0432 \u0420\u0443\u043c\u044b\u043d\u0438\u0438. \u041a\u043e\u0440\u043e\u0431\u043a\u0430 \u0438 \u0432\u0435\u0441\u044c \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442.\n\n2x HDMI \n3x DisplayPort",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "6 500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368696257"
+    },
+    {
+        "ad_link": "https://999.md/ro/84059518",
+        "name": "EVGA GTX 1060 3Gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/cbc5f6866a3eff1d60cb03cbc439d886.jpg",
+        "description": "EVGA GTX 1060 3Gb 192bit GDDR5\nFunctioneaz perfect, nu face zgomot, nu se incalzeste, profilaxie permanenta.\nSunt mai multe bucati.\nPret fix",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "3 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "1 600  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360835244"
+    },
+    {
+        "ad_link": "https://999.md/ro/84253838",
+        "name": "RX 6700 XT 12GB Founders Edition",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/ccd2415504eb25ffdda14892136dc715.jpg",
+        "description": "Performan\u021ba - \u00eentre RTX 3070 \u0219i 3070 Ti, \u00eensa are 12GB VRAM - jocurile noi le trage mai bine dec\u00e2t ambele, av\u00e2nd mai pu\u021bine stutter-uri si %1 low \u00een FPS mai \u00eenalt. Versiunea Reference direct de la AMD.\n\nA stat \u00een PC-ul fratelui mic. Placa de baz\u0103 \u0219i SSD se v\u00e2nd la fel. Motivul v\u00e2nz\u0103rii - upgrade la AM5 (r5 7600) \u0219i RX 7800 XT. Plomba la loc, nu a fost desf\u0103cut\u0103 niciodat\u0103. Orice test\u0103ri deja \u00een PC-ul meu personal.\n\nSSD-ul fratelui: https://999.md/ro/84190691\nPlaca de baz\u0103 a fratelui: https://999.md/ro/84253729\n\n\n\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u2014 \u043c\u0435\u0436\u0434\u0443 RTX 3070 \u0438 3070 Ti, \u043d\u043e \u0438\u043c\u0435\u0435\u0442 12 \u0413\u0411 \u0412\u041e\u0417\u0423 \u2014 \u043d\u043e\u0432\u044b\u0435 \u0438\u0433\u0440\u044b \u043d\u0435 \u043f\u0440\u043e\u043b\u0430\u0433\u0438\u0432\u0430\u044e\u0442 (%1 low - \u0432\u044b\u0448\u0435). Reference \u0432\u0435\u0440\u0441\u0438\u044f \u043e\u0442 AMD.\n\n\u0421\u0438\u0434\u0435\u043b \u0432 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0435 \u043c\u043b\u0430\u0434\u0448\u0435\u0433\u043e \u0431\u0440\u0430\u0442\u0430. \u041c\u0430\u0442\u0435\u0440\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u043b\u0430\u0442\u0430 \u0438 SSD - \u0442\u043e\u0436\u0435 \u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0435. \u041f\u0440\u0438\u0447\u0438\u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0438 - \u043f\u0435\u0440\u0435\u0445\u043e\u0434 \u043d\u0430 AM5 (r5 7600) \u0438 RX 7800 XT. \u041f\u043b\u043e\u043c\u0431\u0430 \u043d\u0430 \u043c\u0435\u0441\u0442\u0435, \u043d\u0435 \u0432\u0441\u043a\u0440\u044b\u0432\u0430\u043b\u0430\u0441\u044c. \u041b\u044e\u0431\u044b\u0435 \u0442\u0435\u0441\u0442\u044b \u0443\u0436\u0435 \u0432 \u043c\u043e\u0451\u043c \u041f\u041a.",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "12 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "7 300  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368983660"
+    },
+    {
+        "ad_link": "https://999.md/ro/84341095",
+        "name": "Cumpar - \u041a\u0443\u043f\u043b\u044e    RTX 4090",
+        "image_link": null,
+        "description": "Cumpar  RTX 4090  - scriti mesaje pe site .\n\n\u041a\u0443\u043f\u043b\u044e    RTX 4090 - \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043f\u0438\u0448\u0438\u0442\u0435 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0432 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f\u0445.\n\n069223357",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369223357"
+    },
+    {
+        "ad_link": "https://999.md/ro/84341076",
+        "name": "Gtx 1060 3gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/acf25fec4e50fdf27b99849dbc65dc24.jpg",
+        "description": "V\u00e2nd placa video \u00een stare bun\u0103 \u00een afar\u0103 de defectul la cooler care se vede \u00een poze!? Orice teste, v\u00e2nd deoarece am f\u0103cut un upgrade!?",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "3 GB",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369669941"
+    },
+    {
+        "ad_link": "https://999.md/ro/84341017",
+        "name": "Gigabyte RTX 3060",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/9f51a0340b0a5fa724bf3bdbd8ba4ebb.jpg",
+        "description": "\u0412 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 !!!",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "4 500  lei",
+        "region": "Moldova Dub\u0103sari",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/83893383",
+        "name": "ASUS  GTX 660",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/99913afd149d2579ea34ed65fcf4f4d1.jpg",
+        "description": "ASUS GTX660 \nDDR5-2Gb",
+        "Caracteristici principale": {
+            "Tip procesor": "Intel"
+        },
+        "Porturi": [
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "900  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37378966188"
+    },
+    {
+        "ad_link": "https://999.md/ro/84340810",
+        "name": "Gigabyte GTX 1080 8gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/1d42f5d8efb3dc74b3679afef5da015a.jpg",
+        "description": "Vand  placa  video GTX 1080\nmemoriea este de 8 gb\nproducator Gigabyte\ncardul il am de aproximativ 2 ani jumate\ncardul nu se  supraincalzeste, pasta  termoconductoare a fost schimbata  un an  jumate in urma\nJocurile  noi merg la  Hight Presseturi\no vand  deoarece  meam  luat rtx 3060\nPretul poate fi pputin negociabil\n\nin caz  ca nu raspund pe 999, sunati pe numarul de mai jos",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR5X",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "3 500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37367581756"
+    },
+    {
+        "ad_link": "https://999.md/ro/84340789",
+        "name": "GeForce 1660 super",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/c6a47a533ee1adf1964b5eab7ae135a0.jpg",
+        "description": "\u0411\u0415\u0417 \u0422\u041e\u0420\u0413\u0410, \u0411\u0415\u0417 \u041e\u0411\u041c\u0415\u041d\u0410\n\u0420\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u043e, \u043d\u0438\u043a\u0430\u043a\u0438\u0445 \u0434\u0435\u0444\u0435\u043a\u0442\u043e\u0432",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "3 300  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379193351"
+    },
+    {
+        "ad_link": "https://999.md/ro/84340524",
+        "name": "MSI Gaming GeForce GTX 1080 8GB GDDR5X SLI DirectX 12 VR Ready Graphics Card (GTX 1080 ARMOR 8G OC)",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/754927463f1f02cad342d3fb95c3ba9a.jpg",
+        "description": "Placa video ideala pentru jocuri si editare video!\n\nF\u0103r\u0103 repara\u021bii, f\u0103r\u0103 probleme! Este plomba, nu s-a umblat la placa!\n\nDetalii aici https://www.amazon.com/MSI-GeForce-GTX-1080-ARMOR/dp/B01GXOWUDQ \nMai performanta decat RTX 2060 - https://gpu.userbenchmark.com/Compare/Nvidia-RTX-2060-vs-Nvidia-GTX-1080/4034vs3603 \n\n\nGraphics Coprocessor\tNvidia GeForce\nBrand\tMSI\nGraphics Ram Size\t8 GB\nGPU Clock Speed\t1.66 GHz\nVideo Output Interface\tDVI, HDMI\nChipset Brand\tNVIDIA\nChipset: NVIDIA GeForce GTX 1080\nVideo Memory: 8GB GDDR5X. OpenGL version support: 4.5\nMax. Resolution: 7680 x 4320, support 4x Display monitors\nInput: 1x 6Pin PCI-E power connector, 1x 8Pin PCI-E power connector, output: DVI-D Dual Link, HDMI, 3x DisplayPort's\n500W system power supply requirement; 180W power consumption. Dimensions: 279 x 140 x 42 mm.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR5X"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "190  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37367266277"
+    },
+    {
+        "ad_link": "https://999.md/ro/81516440",
+        "name": "Rtx3080",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/1f11caca4c6732a96f0be828f42fb9d3.jpg",
+        "description": "\u041d\u043e\u0432\u0430\u044f!",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "BUS memorie": "altele",
+            "Stare": "Nou"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "890  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37378271014"
+    },
+    {
+        "ad_link": "https://999.md/ro/84340469",
+        "name": "Radeon HD 5450 1GB DDR3 PCI-E DVI/HDMI/VGA",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/449cbde0ac9c1ba579fdda735c39ca5c.jpg",
+        "description": "Model Name\tHIS 5450 Silence 1GB DDR3 PCI-E DVI/HDMI/VGA\n\nChipset\tRadeon HD 5450 PCIe Series\n\nASIC\tRadeonTM HD 5450 GPU\n\nPixel fill rate\t2.6 Gigapixels/sec\n\nStream Processing Units\n80\nManu. Process (Micron)\t40nm\nMemory Size (MB)\t1024\nMemory Type\tDDR3\nEngine CLK (MHz)\t650MHz\nMemory CLK (Gbps)\t1300MHz\nMemory Interface (bit)\t64\nPower Supply Requirement\t400 Watt or greater power supply recommended\nMax. Resolution\t2560*1600 (Dual dual-link)\nBus Interface\tPCI Express x16\nDisplay Port\nNo\nHDMI\tYes\nDVI\tYes\nVGA\tYes\nATI Radeon HD 5450 System Requirements\nPCI Express based PC is required with one X16 lane graphics slot available on the motherboard\n400 Watt or greater power supply recommended\nCertified power supplies are recommended. Refer to http://ati.amd.com/certifiedPSU for a list of Certified products\nMinimum 1GB of system memory\nInstallation software requires CD-ROM drive\nDVD playback requires DVD drive\nBlu-ray playback requires Blu-ray drive",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "1 GB"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369986170"
+    },
+    {
+        "ad_link": "https://999.md/ro/84340450",
+        "name": "RX 5700 XT 8G GDDR6",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/d092816b3b80818ad74d615450a97622.jpg",
+        "description": "Foarte bun\u0103 pentru editare video \u0219i gamming!\nCa nou\u0103! Este plomba!\n\nDetalii aici - https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-5700-xt-8g-gddr6\n\nGPU: Boost Clock: Up to 1925 MHz\nGPU: Game Clock: Up to 1815 MHz\nMemory:   8GB/256 bit GDDR6. 14 Gbps Effective\nStream Processors: 2560\n4K@120Hz\nDual-X Cooling Technology",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "225  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369986170"
+    },
+    {
+        "ad_link": "https://999.md/ro/81526607",
+        "name": "VGA Gigabyte RTX3080 10GB Eagle",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/b688ddb67316e43a988b3311d8a5b1ff.jpg",
+        "description": "garantie inca 6 luni",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "10 GB",
+            "Tip memorie": "GDDR6",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "11 500  lei",
+        "region": "Moldova Glodeni",
+        "contact": "tel:+37368424343"
+    },
+    {
+        "ad_link": "https://999.md/ro/79719577",
+        "name": "Gigabyte RTX 3060 Vision OC 12 GB",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/ac8cafc74e208ce1a977ed841d1067b2.jpg",
+        "description": "cu garantie pina pe 12.10.2023",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "12 GB",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "8 000  lei",
+        "region": "Moldova B\u0103l\u021bi mun.",
+        "contact": "tel:+37368424343"
+    },
+    {
+        "ad_link": "https://999.md/ro/82777937",
+        "name": "ZOTAC GAMING GeForce RTX 3070",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/daa8c47edf375cc2acdc48fd5d2cba69.jpg",
+        "description": null,
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "8 500  lei",
+        "region": "Moldova Glodeni",
+        "contact": "tel:+37368424343"
+    },
+    {
+        "ad_link": "https://999.md/ro/83687147",
+        "name": "GeForce GTX 1650 OC 4G",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/c0c40d61aacdb2dc70bd23421de7d8b3.jpg",
+        "description": "\u041b\u044e\u0431\u044b\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438, \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u043e, \u043d\u0435 \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u043b\u0430\u0441\u044c \u0432\u0441\u0435 \u0432 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u0435.\n\n\u041f\u0440\u0438\u0447\u0438\u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0435, \u043f\u0440\u0438\u043e\u0431\u0440\u0435\u043b\u0438 \u0441\u0442\u0430\u0440\u0448\u0435\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f \u0432\u0438\u0434\u0435\u043e \u043a\u0430\u0440\u0442\u044b \u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u0435 gb. \u0414\u043b\u044f \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u043e\u0432 4k.\n\nOutput\nDisplayPort 1.4 *1\nHDMI 2.0b *2",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "128 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 450  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369502233"
+    },
+    {
+        "ad_link": "https://999.md/ro/84339573",
+        "name": "Gtx 980 ti 6 GB",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/6c5f8cd3b89b45a2b1a651611510b312.jpg",
+        "description": "Placa \u00een stare buna\nAm cutia original\u0103 a pl\u0103cii \nOrice test\nAre temperaturi mici pana \u00een 30 \u00een idle \u0219i \u00een jocuri mai mult de 60 nu are chiar dac\u0103 e full load \nTine orice joc pe high\nDin experienta mea:\nCS:GO - 500+ (tot high) \nCS 2 - 230+ (tot high) \nFivem - 130+ (tot high) \nWot - 130+ (tot high) \nFornite - 250+ (tot epic) \nTest furmark 105 fps pe 1920x1080p\nMai multe detalii \u00een privat sau teste",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR5X",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 999  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/83252023",
+        "name": "3070 ti founders edition noua",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/bd2fce01f52c4d499fdab8adababad8b.jpg",
+        "description": "3070 ti founders edition noua\n\nFolosita la gaming foarte putin timp!\nStarea ideala.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "500  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368670000"
+    },
+    {
+        "ad_link": "https://999.md/ro/83252030",
+        "name": "3060 ti msi",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/9ef4fa38207d7dd9fa20e0d971c90730.jpg",
+        "description": "3060 ti msi noua\n\nFolosita la gaming foarte putin timp!\nStarea ideala.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "350  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368670000"
+    },
+    {
+        "ad_link": "https://999.md/ro/84249842",
+        "name": "Placi de video nVidia si AMD, GTX, RTX, Radeon, RX",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/07bfdc63b35ae5ca4ce73ed0858fb07a.jpg",
+        "description": "Pl\u0103ci de baz\u0103 la pre\u021buri mici \u00een magazinul web Bomba.MD. Pl\u0103ci de baz\u0103 de top cu garan\u021bie, cashback \u0219i livrare rapid\u0103 \u00een Chi\u0219in\u0103u \u0219i Moldova.\n\nAlege - https://www.bomba.md/ro/category/it-accesorii-placi-grafice/",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369888444"
+    },
+    {
+        "ad_link": "https://999.md/ro/84339133",
+        "name": "GEFORCE RTX 3050",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/022cc19815df9c6bca7fce77cda832ee.jpg",
+        "description": "Se vinde RTX 3050 aorus:\n\nMarimea - 296 x 117 x 56 \u043c\u043c\n\nA fost procurata in 2022 noua, folosita a fost personal de mine si doar numai in jocuri, nu a fost in reparatie si niciodata desfacuta, starea 10/10 pastrata, lucreaza fara probleme, RGB luminozitate.\n\nSe vinde deoarece meam facut upgrade la PC.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "128 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "6 500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360553658"
+    },
+    {
+        "ad_link": "https://999.md/ro/83138920",
+        "name": "ZOTAC GeForce GTX 1080 AMP Edition",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/a4426158fa23fa04b36d726c1df382da.jpg",
+        "description": "ZOTAC GeForce GTX 1080 AMP Edition.\n\u041f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0430 \u043f\u043e\u043b\u043d\u0430\u044f \u043f\u0440\u043e\u0444\u0438\u043b\u0430\u043a\u0442\u0438\u043a\u0430, \u043f\u043e\u043b\u0442\u043e\u0440\u0430 \u0433\u043e\u0434\u0430 \u043c\u043e\u0436\u043d\u043e \u043d\u0435 \u0434\u0443\u043c\u0430\u0442\u044c \u043e \u0442\u043e\u043c \u0447\u0442\u043e\u0431\u044b \u043b\u0435\u0437\u0442\u044c \u0432 \u043d\u0435\u0435. \u0422\u0435\u0440\u043c\u043e\u043f\u0430\u0441\u0442\u0430 \u043d\u0430 \n\u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0435 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430 \u0437\u0430\u043c\u0435\u043d\u0435\u043d\u0430 \u043d\u0430 \u0436\u0438\u0434\u043a\u0438\u0439 \u043c\u0435\u0442\u0430\u043b\u043b, \u0442\u0430\u043a\u0436\u0435 \u0437\u0430\u043c\u0435\u043d\u0435\u043d\u044b \u0442\u0435\u0440\u043c\u043e\u043f\u0440\u043e\u043a\u043b\u0430\u0434\u043a\u0438 \u043d\u0430 \u0447\u0438\u043f\u0430\u0445 \u043f\u0430\u043c\u044f\u0442\u0438. \u041a\u0430\u0440\u0442\u0430 \u043d\u0435 \u043c\u0430\u0439\u043d\u0438\u043b\u0430, \u043d\u0430 \u043d\u0435\u0439 \u0442\u043e\u043b\u044c\u043a\u043e \u0438\u0433\u0440\u0430\u043b\u0438. \u0412 \u0440\u0435\u043c\u043e\u043d\u0442\u0435 \u043d\u0435 \u0431\u044b\u043b\u0430. \u041f\u0440\u0438 \u043f\u043e\u043a\u0443\u043f\u043a\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0443 \u043c\u0435\u043d\u044f \u0434\u043e\u043c\u0430 \u0432 \u0432\u0430\u0448\u0435\u043c \u0438\u043b\u0438 \u043c\u043e\u0435\u043c \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u0438\u043a\u0435.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR5X",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "5 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379778814"
+    },
+    {
+        "ad_link": "https://999.md/ro/84190980",
+        "name": "ASUS GT 640 4 \u0413\u0411",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/a83b8797c8f456d39c06ae458455b19f.jpg",
+        "description": "DDR3-128 bit.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR3",
+            "BUS memorie": "128 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "1 300  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37367523156"
+    },
+    {
+        "ad_link": "https://999.md/ro/84130168",
+        "name": "Asus GeForce GTX 1070 Dual OC Edition 8GB",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/8b40c6b26970016ecdf581d57925fd80.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u044e \u0431/\u0443 ASUS GEFORCE GTX 1070 DUAL OC Edition 8GB.\n\u0412 \u0440\u0430\u0431\u043e\u0447\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438. \u041a\u0443\u043f\u0438\u043b \u043d\u043e\u0432\u043e\u0439 \u0432 2017. \u0422\u044f\u043d\u0435\u0442 \u0438\u0433\u0440\u044b 2019 \u0433\u043e\u0434\u0430 \u0432\u044b\u043f\u0443\u0441\u043a\u0430 \u043d\u0430 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u043a\u0430\u0445 \u043d\u0430 1920\u04451080@60 HDR, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \"RE2 Remake\". \u041d\u0430 4\u043a \u0443\u0436\u0435 \u0442\u044f\u0436\u0435\u043b\u043e\u0432\u0430\u0442\u043e (\u0433\u0434\u0435\u0442\u043e 45 fps).\n\u041f\u043e\u043c\u0435\u043d\u044f\u043b \u043d\u0430 \u0431\u043e\u043b\u0435\u0435 \u043c\u043e\u0449\u043d\u0443\u044e, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u044d\u0442\u0443 \u043f\u0440\u043e\u0434\u0430\u044e.\n\u0416\u0438\u0432\u0443 \u0432 \u0421\u0442\u0430\u0432\u0447\u0435\u043d\u0430\u0445. \u0414\u043e\u043c \u043d\u0430\u0439\u0442\u0438 \u043b\u0435\u0433\u043a\u043e.\n\u0412\u0410\u0416\u041d\u041e: \u0423 \u043c\u0435\u043d\u044f \u043d\u0435\u0433\u0434\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0442\u044c \u044d\u0442\u0443 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0447\u0442\u043e \u043e\u043d\u0430 \u0440\u0430\u0431\u043e\u0447\u0430\u044f. \u0412 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0435 \u0441\u0435\u0439\u0447\u0430\u0441 \u0434\u0440\u0443\u0433\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u0438 \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c \u0435\u0435 \u0431\u044b\u043b\u043e \u0442\u044f\u0436\u0435\u043b\u043e, \u0432\u0442\u043e\u0440\u043e\u0439 \u0440\u0430\u0437 \u043d\u0435 \u0445\u043e\u0447\u0443 \u044d\u0442\u0438\u043c \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f :). \u0415\u0441\u043b\u0438 \u0443 \u0432\u0430\u0441 \u0435\u0441\u0442\u044c \u043a\u0430\u043a\u043e\u0439-\u0442\u043e \u0441\u043f\u043e\u0441\u043e\u0431, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0432\u0437\u044f\u0442\u044c \u0441 \u0441\u043e\u0431\u043e\u0439 \u0441\u0432\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0431\u043b\u043e\u043a, \u0442\u043e \u043c\u043e\u0436\u0435\u043c \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u0442\u044c. \u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u043e\u0434\u0430\u0436\u0438 \u043e\u0431\u0440\u0430\u0442\u043d\u043e \u043d\u0435 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e.\n\n\u0432\u0438\u0434\u0435\u043e \u0440\u0430\u0441\u043f\u0430\u043a\u043e\u0432\u043a\u0438 \u0441 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430: \nhttps://www.youtube.com/watch?v=tpnCUoygjIk",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "3 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379162942"
+    },
+    {
+        "ad_link": "https://999.md/ro/84338844",
+        "name": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 gainward geforce 8600 gt 500mhz pci-e 512mb 800mhz 128 bit",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/640a4895aadcf95ebc0007582d69c9e0.jpg",
+        "description": "\u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438\n\u043e\u0431\u044a\u0435\u043c \u0432\u0438\u0434\u0435\u043e\u043f\u0430\u043c\u044f\u0442\u0438: 512 \u041c\u0411\n\u0442\u0438\u043f \u043f\u0430\u043c\u044f\u0442\u0438: GDDR2\n\u0447\u0430\u0441\u0442\u043e\u0442\u0430 \u043f\u0430\u043c\u044f\u0442\u0438: 800 \u041c\u0413\u0446\n\u0448\u0438\u043d\u0430 \u043e\u0431\u043c\u0435\u043d\u0430 \u0441 \u043f\u0430\u043c\u044f\u0442\u044c\u044e: 128 \u0431\u0438\u0442\n\u0447\u0430\u0441\u0442\u043e\u0442\u0430 \u0432\u0438\u0434\u0435\u043e\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430: 500 \u041c\u0413\u0446\n\u0440\u0430\u0437\u044a\u0435\u043c\u044b \u0438 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b: \u0432\u044b\u0445\u043e\u0434 DVI, \u0432\u044b\u0445\u043e\u0434 VGA\n\u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u0435: 2560x1600\n\u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043c\u044b\u0445 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u043e\u0432: 2\n\n\u0412 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438, \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0440\u0430\u0431\u043e\u0447\u0430\u044f.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "mai pu\u021bin de 1 GB",
+            "Tip memorie": "GDDR2",
+            "BUS memorie": "128 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "250  lei",
+        "region": "Moldova B\u0103l\u021bi mun.",
+        "contact": "tel:+37367202090"
+    },
+    {
+        "ad_link": "https://999.md/ro/84055537",
+        "name": "XFX rx 6600 8gb NEW!!!",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/57deb6d872b8756900bcf3d85b67c151.jpg",
+        "description": "\u0414\u043e\u0431\u0440\u044b\u0439 \u0434\u0435\u043d\u044c \u043f\u0440\u043e\u0434\u0430\u044e \u043d\u043e\u0432\u0443\u044e \u043a\u0430\u0440\u0442\u0443 rx 6600 \u043d\u0430 8\u0433\u0431 \u043e\u0442 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 xfx \u043a\u0430\u0440\u0442\u0430 \u043d\u043e\u0432\u0430\u044f \u043a\u043e\u0440\u043e\u0431\u043a\u0430 \u0431\u044b\u043b\u0430 \u0432\u0441\u043a\u0440\u044b\u0442\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438 \u0432\u0438\u0437\u0443\u0430\u043b\u044c\u043d\u043e ,\u0432\u0441\u0435 \u043f\u043b\u043e\u043c\u0431\u044b \u043d\u0430 \u043c\u0435\u0441\u0442\u0435 \u043d\u0430 \u0444\u043e\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0438\u0434\u043d\u043e \n\u041a\u0430\u0440\u0442\u0430 \u0442\u0430\u0448\u0438\u0442 \u0438\u0433\u0440\u044b \u0438 \u043e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e \u044f \u0441\u0430\u043c \u0441\u0438\u0434\u0435\u043b \u043d\u0430 \u0442\u0430\u043a\u043e\u0439 \u043d\u0430 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0435  2\u043a \u0431\u044b\u043b \n\u0415\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u0437\u0432\u043e\u043d\u0438\u0442\u0435 \u043f\u0438\u0448\u0438\u0442\u0435 \u043e\u0442\u0432\u0435\u0447\u0443 \n\u0422\u043e\u0440\u0433 \u0443\u043c\u0435\u0441\u0442\u0435\u043d (\u0430\u0434\u0435\u043a\u0432\u0430\u0442\u043d\u044b\u0439)",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "128 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "5 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379632555"
+    },
+    {
+        "ad_link": "https://999.md/ro/84318624",
+        "name": "ASRock  AMD Radeon RX 6600 XT",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/ced6539d1ef59c830119642bed92a266.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c \u0432\u0438\u0434\u0435\u043e \u043a\u0430\u0440\u0442\u0443  ASRock  AMD Radeon RX 6600 XT \n\u041a\u0430\u0440\u0442\u0430 \u0432 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435  \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0441\u0443\u043f\u0435\u0440, \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u043f\u043e\u0434 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u044b  1080\u0440  \u043d\u0443 \u0438 1440\u0440(\u0441\u0440\u0435\u0434\u043d\u0438\u0435 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u0438\u0433\u0440\u044b )\n\u0421\u0430\u043c\u0430 \u043a\u0430\u0440\u0442\u0430 \u043e\u0447\u0435\u043d\u044c \u0445\u043e\u043b\u043e\u0434\u043d\u0430\u044f \u0432 \u0442\u0435\u0441\u0442\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 64 \u0433\u0434\u0443\u0441\u0430 \u043d\u0435 \u0432\u0438\u0434\u0435\u043b \u043d\u043e \u0444\u043e\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0438\u0434\u043d\u043e \n\u043f\u0440\u0438\u0447\u0438\u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0438  \u043a\u0443\u043f\u0438\u043b \u043a\u0430\u0440\u0442\u0443 \u043f\u043e \u043b\u0443\u0447\u0448\u0435 \n\u0435\u0441\u043b\u0438 \u043d\u0443\u0436\u043d\u044b \u0442\u0435\u0441\u0442\u044b \u043d\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430 \n\u0442\u043e\u0440\u0433 \u0443\u043c\u0435\u0441\u0442\u0435\u043d  \n\u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 )",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "128 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "4 500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379632555"
+    },
+    {
+        "ad_link": "https://999.md/ro/82876711",
+        "name": "Asus rog strix geforce rtx 3060 ti - 400 euro",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/f4118b7eea0b9c9a2abea233dea509ce.jpg",
+        "description": "placa video / \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430\nROG Strix GeForce RTX 3060 Ti OC Edition (8 \u0413\u0411 \u0432\u0438\u0434\u0435\u043e\u043f\u0430\u043c\u044f\u0442\u0438 GDDR6)\nhttps://rog.asus.com/ru/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3060ti-o8g-gaming-model/",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "400  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379940795"
+    },
+    {
+        "ad_link": "https://999.md/ro/84338163",
+        "name": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b - \u0441\u043a\u0438\u0434\u043a\u0438 \u043d\u0430 \u0432\u0441\u0435 \u043c\u043e\u0434\u0435\u043b\u0438!",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/b5d1b47bbb66d42236f34051980e6e0a.jpg",
+        "description": "www.gsmshop.md\n\n\u0417\u0430\u0445\u043e\u0434\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442 www.gsmshop.md \u0438 \u041f\u041e\u041a\u0423\u041f\u0410\u0419 \u043a\u0440\u0443\u0442\u0443\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u043f\u043e \u0421\u0423\u041f\u0415\u0420 \u0426\u0415\u041d\u0415 !!!\n\n\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u043c\u043e\u0434\u0435\u043b\u044c \u0438 \u041a\u0423\u041f\u0418\u0422\u042c \u0414\u0401\u0428\u0415\u0412\u041e \u043c\u043e\u0436\u043d\u043e \u043f\u043e \u0441\u0441\u044b\u043b\u043a\u0435  -->  https://www.gsmshop.md/category/view/vga.html\nwww.gsmshop.md\n\n\u041f\u0440\u043e\u0434\u0430\u0435\u043c \u0432 \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0443 0% !!!\nVindem in rate cu 0% !!!\n\n\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u044f !!!\nGarantie oficiala !!!\n\n\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u041c\u043e\u043b\u0434\u043e\u0432\u0435 !!!\nLivram in toata Moldova !!!\n\n\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u0432 \u043a\u0440\u0435\u0434\u0438\u0442 \u043d\u0430 \u043b\u0443\u0447\u0448\u0438\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 - \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u0432\u044b\u0433\u043e\u0434\u043d\u043e !!!\nVindem in credit avantajos pina la 24 luni !!!\n\nwww.gsmshop.md\n\nIntra pe www.gsmshop.md si CUMPARA placa video performanta la PRET EXCEPTIONAL !!!\n\nAlege model si cumpara IEFTIN aici  -->  https://www.gsmshop.md/ro/category/view/vga.html\nwww.gsmshop.md",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379115411"
+    },
+    {
+        "ad_link": "https://999.md/ro/84337773",
+        "name": "Asus TUF RTX 3060 TI  v2 OC 8GB GDDR6",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/3ef32f3a40a9b4046e1297a1543fb5e6.jpg",
+        "description": "Este in stare foarte buna , am procurato aproximativ 1 an in urma din magazin .\n\nJocurile merg in 2k.\n\nA fost ingrijita , este un model foarte rece.\n\n!!! DVI port nu are , aplicatia nu permite sa scot bifa !!!!",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "9 500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/84337425",
+        "name": "Pl\u0103ci video / \u0412\u0438\u0434\u0435\u043e \u043a\u0430\u0440\u0442\u044b - AMD Radeon & Nvidia GeForce - Livrare \u0219i instalare gratuita, Garan\u021bie",
+        "image_link": null,
+        "description": null,
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37367469471"
+    },
+    {
+        "ad_link": "https://999.md/ro/84337418",
+        "name": "Asus Tuf Gaming Gtx1650 gddr6 oc",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/4109491721d4fcfca8344a3570f9612e.jpg",
+        "description": "A fost folosita in jur de 3-4 luni\nversiunea oc cu ddr6\nAre plomb\u0103,se poate de verificat\no v\u00e2nd ca am procurat alt\u0103 videocart\u0103 mai puternic\u0103.",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "3 600  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/84337375",
+        "name": "Asus Dual Rx 6600 8 gddr6",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/55f5ce83b0b850bd3690d78d2a743e27.jpg",
+        "description": "Starea foarte bun\u0103, practic ii nou\u0103 \npozele sunt reale,are toat\u0103 documenta\u021bia.\nVerific\u0103ri facem at\u00e2t timp c\u00e2t este nevoie.\nVideocarta nu a fost in mining \u0219i nu a fost desf\u0103cut\u0103\n(st\u0103 plomba)",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "5 200  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37361129084"
+    },
+    {
+        "ad_link": "https://999.md/ro/84326432",
+        "name": "Radeon HD 3650 \u0438 Geforce 7300",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/1602f5a386d41e2ff29b17bf577aedd4.jpg",
+        "description": "Radeon 200\nGeforce 100",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "mai pu\u021bin de 1 GB",
+            "Tip memorie": "GDDR3",
+            "BUS memorie": "64 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "200  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37378783294"
+    },
+    {
+        "ad_link": "https://999.md/ro/84336364",
+        "name": "Evga Gtx 970 4gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/42756fbf71718f837e8ad11bd0ee616d.jpg",
+        "description": "Placa folosita cu dragoste doar la jocuri in PC-ul personal , starea ideala , niciodata nu a ajuns la temperaturi inalte , a fost folosita cu grija",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR5"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/84336317",
+        "name": "Asus Nvidia GT 1030 2GB GDDR5",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/3bf1a9e0cda9852da826a2b14dd9d185.jpg",
+        "description": "Placa video lucreaz\u0103 perfect,nu are careva defecte!",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "2 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "64 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "800  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360550514"
+    },
+    {
+        "ad_link": "https://999.md/ro/84235264",
+        "name": "GIGABYTE GeForce RTX 3060 Ti GAMING OC 8G",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/b59f9bedf71fa9aa6d5abb4e705a97f2.jpg",
+        "description": "Cipul Samsung, schimb nu propuneti.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "6 800  lei",
+        "region": "Moldova H\u00eence\u0219ti",
+        "contact": "tel:+37379390646"
+    },
+    {
+        "ad_link": "https://999.md/ro/79274882",
+        "name": "\u0421\u0430\u043c\u044b\u0435 \u043d\u0438\u0437\u043a\u0438\u0435 \u0446\u0435\u043d\u044b!!! #\u041d\u043e\u0432\u044b\u0435 \u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b \u0438 \u0414\u0435\u0440\u0436\u0430\u0442\u0435\u043b\u0438 \u0434\u043b\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/ea0e2125fb96045222841bf7f7cb3ac3.jpg",
+        "description": "\u041a\u0438\u0448\u0438\u043d\u0435\u0432, \u0443\u043b. \u041d. \u0422\u0438\u0442\u0443\u043b\u0435\u0441\u043a\u0443 6.  \nhttp://geek.md\n\nTelegram - https://t.me/Geek_MD\n\n===============================================================================\n\n\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b - https://geek.md/kompyuternaya-tehnika/komplektuyushie-dlya-pk/videokarty\n\n\n\u0414\u0435\u0440\u0436\u0430\u0442\u0435\u043b\u0438 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442 - https://geek.md/kompyuternaya-tehnika/modding-pk/derzhateli-videokart\n\n\n===============================================================================\n\n\n\u0412 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 GEEK \u0432\u0430\u0441 \u043e\u0436\u0438\u0434\u0430\u0435\u0442:\n\n1) \u041a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0442\u043e\u0440 -------------------\n \u0422\u0435\u0441\u0442\u0438\u043b\u0438 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0442\u043e\u0440 \u043d\u0430 \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u0435. \u041e\u043d \u0437\u043d\u0430\u043b \u0442\u043e\u043b\u044c\u043a\u043e \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0430 \u0438 \u043c\u044b\u0448\u044c, \u043d\u043e \u0441\u043c\u043e\u0433 \u0441\u043e\u0431\u0440\u0430\u0442\u044c \u0441\u0435\u0431\u0435 \u043a\u0440\u0443\u0442\u043e\u0439 \u0438\u0433\u0440\u043e\u0432\u043e\u0439 \u041f\u041a \u0441 \u043f\u043e\u043b\u043d\u043e\u0439 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u044c\u044e. \u0423\u043c\u043d\u044b\u0439 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u043f\u043e\u0447\u0442\u0438 \u043a\u0430\u043a \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0441\u0430\u043c\u0438:\n https://geek.md/configurator\n\n2) \u0424\u043e\u0442\u043e \u0442\u043e\u0432\u0430\u0440\u043e\u0432 -------------------\n \u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0438 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0444\u043e\u0442\u043e + \u0438\u0445 \u043c\u043d\u043e\u0433\u043e. \u041f\u0435\u0440\u0435\u0440\u044b\u043b\u0438 \u0432\u0435\u0441\u044c \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442. \u041b\u0443\u0447\u0448\u0438\u0435 \u0438\u0437 \u0442\u0435\u0445 \u0447\u0442\u043e \u043d\u0430\u0448\u043b\u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u0443 \u043d\u0430\u0441 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435. P.S. \u041f\u0440\u0438\u0445\u043e\u0434\u0438\u043b\u043e\u0441\u044c \u0434\u043e\u0433\u043e\u0432\u0430\u0440\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u0441 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f\u043c\u0438\n   \n3) \u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 -------------------\n \u041c\u044b \u0442\u043e\u0447\u043d\u043e \u0437\u043d\u0430\u0435\u043c, \u0435\u0441\u0442\u044c \u0442\u0430\u043a\u0430\u044f \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u044f - \u043f\u043e\u0438\u0441\u043a \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a \u043f\u043e \u0432\u0441\u0435\u043c \u043e\u0431\u0437\u043e\u0440\u0430\u043c \u0432 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435. \u041f\u043e\u0442\u043e\u043c\u0443-\u0447\u0442\u043e \u0443 \u043d\u0430\u0441 \u0435\u0441\u0442\u044c \u0442\u0430\u043a\u043e\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b! \u041d\u043e\u0447\u0430\u043c\u0438 \u043d\u0435 \u0441\u043f\u0430\u043b - \u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 \u0438\u0441\u043a\u0430\u043b, \u0432\u0441\u0451 \u0447\u0442\u043e \u043d\u0430\u0448\u0435\u043b, \u0437\u0430\u043f\u0438\u0441\u0430\u043b. \u041d\u0430\u0441\u043b\u0430\u0436\u0434\u0430\u0439\u0442\u0435\u0441\u044c \u0434\u043e\u0440\u043e\u0433\u0438\u0435 \u043a\u043b\u0438\u0435\u043d\u0442\u044b. \u041f\u0440\u043e\u0441\u0442\u043e \u0437\u0430\u0446\u0435\u043d\u0438\u0442\u0435 \u044d\u0442\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430:\n https://geek.md/tsifrovoj-zerkalnyj-fotoapparat-canon-eos-1d-x-mark-iii-body-3829c010-\n\n4) \u0424\u0438\u043b\u044c\u0442\u0440\u044b -------------------\n \u0425\u043e\u0442\u0438\u0442\u0435 \u043e\u0442\u0444\u0438\u043b\u044c\u0442\u0440\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043c\u044b\u0448\u0438 \u043f\u043e \u043d\u0430\u043b\u0438\u0447\u0438\u044e \u043f\u043e\u0434\u0441\u0442\u0430\u0432\u043a\u0438 \u043f\u043e\u0434 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043f\u0430\u043b\u0435\u0446?\n\u0423 \u043d\u0430\u0441 \u0438 \u044d\u0442\u043e \u043c\u043e\u0436\u043d\u043e. \u041d\u0435 \u0432\u0435\u0440\u0438\u0442\u0435? \u041f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0441\u0430\u043c\u0438: \nhttps://geek.md/kompyuternaya-tehnika/periferijnye-ustrojstva/myshi-1/osobennosti/podstavka-pod-bolshoj-palets\n\u041c\u043d\u043e\u0433\u043e \u0444\u0438\u043b\u044c\u0442\u0440\u043e\u0432 \u043f\u043e \u0432\u0441\u0435\u043c \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c. \u0423\u0434\u043e\u0431\u043d\u043e \u0438\u0441\u043a\u0430\u0442\u044c. \n\n5) \u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 -------------------\n \u0421\u0442\u0430\u0440\u0430\u0435\u043c\u0441\u044f \u0440\u0430\u0441\u043f\u0438\u0441\u044b\u0432\u0430\u0442\u044c \u0432\u0441\u0435 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0444\u0438\u0448\u043a\u0438 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0442\u043e\u0432\u0430\u0440\u0430. \u041d\u0430\u0448\u0430 \u0433\u043e\u0440\u0434\u043e\u0441\u0442\u044c: \nhttps://geek.md/igrovaja-mysh-razer-basilisk-v3-rz01-04000100-r3m1-\n\u041a\u0440\u0443\u0442\u043e, \u043f\u0440\u0430\u0432\u0434\u0430?) \u0418 \u0442\u0430\u043a \u043f\u043e\u0447\u0442\u0438 \u0443 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0442\u043e\u0432\u0430\u0440\u0430\n\n6) \u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f -------------------\n \u0422\u0430\u043a\u0436\u0435, \u0443 \u043d\u0430\u0441 \u0435\u0441\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u043f\u043e \u043f\u043e\u0438\u0441\u043a\u0443 PDF'\u043e\u043a. \u041e\u043d \u0432 \u044d\u0442\u043e\u043c \u043c\u0430\u0441\u0442\u0435\u0440 - \u041d\u0430\u0439\u0434\u0435\u0442 PDF \u0434\u0430\u0436\u0435 \u043d\u0430 \u0444\u043b\u043e\u043c\u0430\u0441\u0442\u0435\u0440  \n\n7) \u0421\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 -------------------\n \u0421\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0443 \u043d\u0430\u0441 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442, \u0442\u0430\u043a \u043a\u0430\u043a \u043e\u043d\u043e \u0437\u0430\u0434\u0443\u043c\u0430\u043d\u043e. \u041c\u043e\u0436\u043d\u043e \u0441\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u0442\u044c \u0442\u043e\u0432\u0430\u0440\u044b \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0438\u043b\u0438 \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043f\u043e\u043a\u0430\u0437 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0442\u043b\u0438\u0447\u0438\u0439. \u0412\u044b \u0434\u0430\u0432\u043d\u043e \u0438\u0441\u043a\u0430\u043b\u0438 \u0442\u0430\u043a\u043e\u0439 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442, \u043f\u0440\u0430\u0432\u0434\u0430? \u0411\u0443\u0434\u044c\u0442\u0435 \u0443\u0432\u0435\u0440\u0435\u043d\u044b, \u0432\u044b \u0432\u044b\u0431\u0435\u0440\u0435\u0442\u0435 \u0442\u043e, \u0447\u0442\u043e \u0432\u0430\u043c \u043d\u0443\u0436\u043d\u043e.\n\n8) \u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u044b - \u0421\u0435\u043d\u0441\u0435\u0438 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043e\u0432  -------------------\n \u041c\u044b \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0438\u0437\u0443\u0447\u0430\u0435\u043c \u0442\u043e\u0432\u0430\u0440 \u0438  \u043c\u043e\u0436\u0435\u043c \u043f\u043e\u043c\u043e\u0447\u044c \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0442 \n\u041d\u043e \u043f\u043e\u043c\u043d\u0438\u0442\u0435, \u0432\u0441\u0451 \u0437\u043d\u0430\u0442\u044c \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0438 \u043d\u0430 \u0447\u0435\u043c-\u0442\u043e \u043c\u043e\u0436\u0435\u043c \u0437\u0430\u043f\u043d\u0443\u0442\u0441\u044f, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043d\u0435 \u0437\u043b\u0438\u0442\u0435\u0441\u044c:))  \u041d\u0430\u0448\u0438 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u044b \u043e\u0431\u043e\u0436\u0430\u044e\u0442 \u0433\u043b\u0443\u043f\u044b\u0435 \u0438 \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b, (\u0421\u0430\u043c\u044b\u0435 \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u043c\u044b \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u043c)  \u0437\u0430\u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u043d\u0435 \u0441\u0442\u0435\u0441\u043d\u044f\u0439\u0442\u0435\u0441\u044c\n\n\n===============================================================================\n\n\u041f\u0440\u0438\u043c\u0435\u0440 \u043c\u043e\u0434\u0435\u043b\u0435\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0443 \u043d\u0430\u0441 \u043d\u0430\u0439\u0442\u0438:\n\nAFOX GeForce GT610 2GB (AF610-2048D3L7-V5)\nAFOX GeForce GT740 4GB DDR3 (AF740-4096D3L3)\nAFOX GeForce GT740 4GB DDR5 (AF740-4096D5H3)\nBiostar Gaming Radeon RX 550 4GB (VA5515RF41)\nBiostar GeForce 210 1 GB (VN2103NHG6)\nBiostar GeForce GT610 2GB (VN6103THX6)\nBiostar GeForce GT730 2GB (VN7313THX1)\nBiostar GeForce GT730 4 GB (VN7313TH41)\nMSI GeForce GT 1030 2 GB (MSI_1030_2GH_LP_OC)\nMSI GeForce GT 710 1 GB (MSI_GT 710_1GD3H_LP)\nMSI GeForce GT 710 2 GB (MSI_GT 710_2GD3H_LP)\nMSI Radeon RX 6900 XT GAMING Z TRIO 16G\nSapphire GPRO X060 8GB (32316-01-10G)\nSapphire GPRO X080 10GB (32312-03-10G)\nSapphire PULSE Radeon RX 550 2 GB (11268-21-20G)\nSapphire PULSE Radeon RX 6600 8GB (11310-01-20G)\nSapphire PULSE Radeon RX 6600 XT OC 8GB (11309-03-20G)\nSapphire Radeon R7 240 4GB (11216-35-20G)\nSapphire TOXIC Radeon RX 6900 XT Limited Edition OC LIQUID COOLED 16GB (11308-13-20G)\nZotac GeForce GT710 Zone Edition 1 GB (ZT-71301-20L)\nZotac GeForce GT710 Zone Edition 2 GB (ZT-71302-20L)\nZotac GeForce GT730 Zone Edition 2GB (ZT-71113-20L)\nZotac GeForce GT730 Zone Edition 4GB (ZT-71115-20L)\nZotac GeForce GTX 1050 Ti 4 GB (ZT-P10510A-10L)\nZotac GeForce GTX 1650 D6 OC 4GB (ZT-T16520F-10L)\nZotac GeForce GTX 1660 SUPER Twin Fan 6GB (ZT-T16620F-10L)\nZotac GeForce RTX 2060 Twin Fan 12G (ZT-T20620F-10M)\nZotac GeForce RTX 3050 Twin Edge OC 8GB (ZT-A30500H-10M)\nZotac GeForce RTX 3060 Ti AMP LHR White Edition 8GB (ZT-A30610F-10PLHR)\nZotac GeForce RTX 3060 Ti Twin Edge OC LHR 8GB (ZT-A30610H-10MLHR)\nZotac GeForce RTX 3060 Twin Edge OC 12GB (ZT-A30600H-10M)\nZotac GeForce RTX 3070 AMP Holo LHR 8GB (ZT-A30700F-10PLHR)\nZotac GeForce RTX 3070 Ti AMP Holo 8GB (ZT-A30710F-10P)\nZotac GeForce RTX 3070 Ti Trinity OC 8GB (ZT-A30710J-10P)\nZotac GeForce RTX 3070 Twin Edge OC LHR 8GB (ZT-A30700H-10PLHR)\nZotac GeForce RTX 3080 Trinity OC LHR 10GB (ZT-A30800J-10PLHR)\nZotac GeForce RTX 3080 AMP Holo LHR 10 GB (ZT-A30800F-10PLHR)\nZotac GeForce RTX 3080 Trinity OC LHR 12 GB (ZT-A30820J-10PLHR)\nZotac GeForce RTX 3080 AMP Extreme Holo LHR 12 GB (ZT-A30820B-10PLHR)\nZotac GeForce RTX 3090 OC Trinity 24 GB (ZT-A30900J-10P)\nSapphire PULSE Radeon RX 550 4 GB (11268-01-20G)\nSapphire PULSE Radeon RX 6400 4 GB (11315-01-20G)\nSapphire NITRO+ Radeon RX 6600 XT OC 8 GB (11309-01-20G)\nSapphire NITRO+ Radeon RX 6650 XT GAMING OC 8 GB (11319-01-20G)\nSapphire NITRO+ Radeon RX 6700 XT OC 12 GB (11306-01-20G)\nSapphire NITRO+ Radeon RX 6750 XT GAMING OC 12 GB (11318-01-20G)\nSapphire NITRO+ Radeon RX 6800 XT SE OC 16 GB (11304-01-20G)\nMSI Radeon RX 6500 XT MECH 2X 4G OC 4 GB\nDeepcool GH-01\nDeepcool GH-01 A-RGB\nDeepcool GH-01 LED\nDeepCool ST500 ARGB",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369237373"
+    },
+    {
+        "ad_link": "https://999.md/ro/84335979",
+        "name": "GTX 560, 1GB, 256 bit, \u043d\u0435 \u0432\u044b\u0432\u043e\u0434\u0438\u0442 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435, \u043d\u0443\u0436\u043d\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/e42145a5a526c8200ef28d848bbc451f.jpg",
+        "description": "GTX 560, 1GB, 256 bit, \u043d\u0435 \u0432\u044b\u0432\u043e\u0434\u0438\u0442 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435, \u043d\u0443\u0436\u043d\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "1 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "256 bit"
+        },
+        "Porturi": [
+            "DVI",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "200  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368517932"
+    },
+    {
+        "ad_link": "https://999.md/ro/79944339",
+        "name": "RTX 3090  AMD 6800 6700XT",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/7e67ae92bfd808ab09ed0a51717cb72e.jpg",
+        "description": "Gpu in stare impecabila, mai multe modele in stock.\nGarantie !\n\nNvidia RTX 3090 FE 690\u20ac\n\nAMD 6800 450\u20ac\nAMD 6700XT 350-400\u20ac\n5700XT 300\u20ac",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "500  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360222214"
+    },
+    {
+        "ad_link": "https://999.md/ro/82816961",
+        "name": "MSI GeForce RTX 4080",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/eba6287a9ce67fb24ba87eff12d09610.jpg",
+        "description": "Noua, sigilata\n\u041d\u043e\u0432\u0430\u044f, \u0437\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u043d\u0430 \n16 Gb GDDR6X\n\u0421\u0440\u043e\u0447\u043d\u043e",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "16 GB",
+            "Tip memorie": "GDDR6X",
+            "Stare": "Nou"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "1 170  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368684713"
+    },
+    {
+        "ad_link": "https://999.md/ro/84335008",
+        "name": "MSI GeForce GTX 1080",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/0a7e3eb3fbf21bca93d913ae05845259.jpg",
+        "description": "\u0411\u0443 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430\n\u042f \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u043b\u0430\u0434\u0435\u043b\u0435\u0446\n\u041d\u0435 \u043f\u0435\u0440\u0435\u0433\u0440\u0435\u0432\u0430\u043b\u0430\u0441\u044c\n\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b \u0432 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u043c \u041f\u041a\n\u0412 \u0441\u0442\u0440\u0435\u0441\u0441 \u0442\u0435\u0441\u0442\u0435 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 66 \u0433\u0440\u0430\u0434\u0443\u0441\u043e\u0432\n\u0417\u0432\u043e\u043d\u0438\u0442\u0435 \u0438 \u043f\u0438\u0448\u0438\u0442\u0435 \u0432 \u043b\u044e\u0431\u043e\u0435 \u0432\u0440\u0435\u043c\u044f",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR5X",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "3 500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37376008627"
+    },
+    {
+        "ad_link": "https://999.md/ro/84334778",
+        "name": "3060 TI",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/35334cc6b6792921cd473327f78ca5bd.jpg",
+        "description": "RTX3060-TI 8GB GDDR6 256BIT GAMING 2xDP/2xHDMI. !\u041f\u0420\u0415\u0414\u0417\u0410\u041a\u0410\u0417!. \u0410\u0411\u0421\u041e\u041b\u042e\u0422\u041d\u041e \u043d\u043e\u0432\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 3060 TI. \u0412\u0441\u0435 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u043f\u0438\u0448\u0443 \u0432 \u0447\u0430\u0442\u0435.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "256 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "F\u0103r\u0103 apeluri, prefer mesaje \u00een chat "
+    },
+    {
+        "ad_link": "https://999.md/ro/79344150",
+        "name": "RX 6700 XT 12 GB \u0432 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/726a52a9778be691cccd5cdde78d0104.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c \u0438\u0433\u0440\u043e\u0432\u0443\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 Sapphire NITRO+ AMD Radeon RX 6700 XT 12GB DDR6 \u0432 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438. \u0421\u0432\u0435\u0442\u043e\u0434\u0438\u043e\u0434\u043d\u0430\u044f RGB \u043f\u043e\u0434\u0441\u0432\u0435\u0442\u043a\u0430. \u0415\u0441\u0442\u044c \u043a\u043e\u0440\u043e\u0431\u043a\u0430.",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "405  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369518006"
+    },
+    {
+        "ad_link": "https://999.md/ro/84334533",
+        "name": "RTX 2060 Gigabyte",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/8379325962e008d948bd446525d519eb.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 RTX 2060 \u0432 \u0438\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0438 \u043e\u0442 GIGABYTE\n\n\u0412\u0438\u0434\u0435\u043e \u043a\u0430\u0440\u0442\u0430 \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0445\u043e\u043b\u043e\u0434\u043d\u0430\u044f!\n\n\u041f\u0440\u043e\u0434\u0430\u044e \u0442\u0430\u043a \u043a\u0430\u043a \u0445\u043e\u0447\u0443 \u043e\u0431\u043d\u043e\u0432\u0438\u0442\u044c\u0441\u044f \u0434\u043e \u0431\u043e\u043b\u0435\u0435 \u043d\u043e\u0432\u043e\u0439\n\n\u041f\u043e\u043b\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442! \n\n\u0412 \u0438\u0433\u0440\u0430\u0445 \u0444\u0430\u0441 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0438 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 (\u0443 \u043c\u0435\u043d\u044f \u0432 \u0438\u0433\u0440\u0430\u0445)-\nRust - 100-130 fps\nCs:Go - 300+- fps\nGTA V - 150+- fps\nRed Dead Redemption 2 - 100fps\n\n\u041e\u0431\u043c\u0435\u043d \u043d\u0430 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b 30 \u0441\u0435\u0440\u0438\u0438 \u0438 40 \u0441 \u043c\u043e\u0435\u0439 \u0434\u043e\u043f\u043b\u0430\u0442\u043e\u0439",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "4 200  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37378708805"
+    },
+    {
+        "ad_link": "https://999.md/ro/84333875",
+        "name": "\u041f\u0440\u043e\u0434\u0430\u043c \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 AMD RADEON HD6670",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/0aaf17d40cd0004d4fcd8307bac993cf.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 AMD RADEON HD6670 1GB \u0432 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438.\n\u0441\u0442\u043e\u044f\u043b\u0430 \u0434\u043e\u043c\u0430 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0430\u0441\u044c \u043b\u0438\u0448\u044c \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430 \u0444\u0438\u043b\u044c\u043c\u043e\u0432 \u0438 \u043b\u0435\u0433\u0435\u043d\u044c\u043a\u0438\u0445 \u0438\u0433\u0440\n\n\u0428\u0438\u043d\u0430 \u043f\u0430\u043c\u044f\u0442\u0438\t128-bit GDDR5\n\u041e\u0431\u044a\u0435\u043c \u043f\u0430\u043c\u044f\u0442\u0438\t1 gb\n\n\u0433\u043e\u0440\u043e\u0434 \u0411\u0435\u043b\u044c\u0446\u044b\n\u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u0442\u043e\u0440\u0433",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "1 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "128 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "350  lei",
+        "region": "Moldova B\u0103l\u021bi mun.",
+        "contact": "tel:+37367279005"
+    },
+    {
+        "ad_link": "https://999.md/ro/84333179",
+        "name": "Sapphire nitro+ radeon rx 570 4gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/ab3b91a9000970d52337443f55176b1c.jpg",
+        "description": "SAPPHIRE NITRO+ RADEON RX 570 4GB\nStare ideala \nNu a fost folosita la Maining!!!",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "1 700  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37367147776"
+    },
+    {
+        "ad_link": "https://999.md/ro/84332647",
+        "name": "\u041f\u0440\u043e\u0434\u0430\u043c \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u0440\u0430\u0431\u043e\u0447\u0443\u044e",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/149634001ef9dcdb5535926169de1ed3.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 Nvidia QUADRO k2000 \u0432 \u0440\u0430\u0431\u043e\u0447\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438.",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "2 GB",
+            "Tip memorie": "GDDR5",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "550  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369213821"
+    },
+    {
+        "ad_link": "https://999.md/ro/84332476",
+        "name": "\u041d\u043e\u0432\u044b\u0439 \u0437\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u043d\u043d\u044b\u0439 GeForce RTX 3060Ti",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/d0ec15a3fcd158c927f775d687b1d057.jpg",
+        "description": "\u041d\u043e\u0432\u0430\u044f \u0437\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u043d\u043d\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 GeForce RTX 3060Ti Zotac",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "10 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "256 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "7 500  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37369103627"
+    },
+    {
+        "ad_link": "https://999.md/ro/84331377",
+        "name": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b - \u0441\u043a\u0438\u0434\u043a\u0438 \u043d\u0430 \u0432\u0441\u0435 \u043c\u043e\u0434\u0435\u043b\u0438!",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/b5d1b47bbb66d42236f34051980e6e0a.jpg",
+        "description": "www.gsmshop.md\n\n\u0417\u0430\u0445\u043e\u0434\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442 www.gsmshop.md \u0438 \u041f\u041e\u041a\u0423\u041f\u0410\u0419 \u043a\u0440\u0443\u0442\u0443\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u043f\u043e \u0421\u0423\u041f\u0415\u0420 \u0426\u0415\u041d\u0415 !!!\n\n\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u043c\u043e\u0434\u0435\u043b\u044c \u0438 \u041a\u0423\u041f\u0418\u0422\u042c \u0414\u0401\u0428\u0415\u0412\u041e \u043c\u043e\u0436\u043d\u043e \u043f\u043e \u0441\u0441\u044b\u043b\u043a\u0435  -->  https://www.gsmshop.md/category/view/vga.html\nwww.gsmshop.md\n\n\u041f\u0440\u043e\u0434\u0430\u0435\u043c \u0432 \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0443 0% !!!\nVindem in rate cu 0% !!!\n\n\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u044f !!!\nGarantie oficiala !!!\n\n\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u041c\u043e\u043b\u0434\u043e\u0432\u0435 !!!\nLivram in toata Moldova !!!\n\n\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u0432 \u043a\u0440\u0435\u0434\u0438\u0442 \u043d\u0430 \u043b\u0443\u0447\u0448\u0438\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 - \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u0432\u044b\u0433\u043e\u0434\u043d\u043e !!!\nVindem in credit avantajos pina la 24 luni !!!\n\nwww.gsmshop.md\n\nIntra pe www.gsmshop.md si CUMPARA placa video performanta la PRET EXCEPTIONAL !!!\n\nAlege model si cumpara IEFTIN aici  -->  https://www.gsmshop.md/ro/category/view/vga.html\nwww.gsmshop.md",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379115411"
+    },
+    {
+        "ad_link": "https://999.md/ro/81341641",
+        "name": "Asus gtx 1660 gaming",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/3e7d0dd838a27eb26626c3a1e70920e4.jpg",
+        "description": "\u0438\u0433\u0440\u043e\u0432\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b \u0432 \u0438\u0433\u0440\u0430\u0445, \u0442\u044f\u043d\u0435\u0442 \u0432\u0441\u0435 \u043d\u0430 \u0432\u044b\u0441\u043e\u043a\u0438\u0445, \u043d\u0435 \u0443\u043b\u044c\u0442\u0440\u0430, \u043d\u043e \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0430 \u0433\u043b\u0430\u0437 \u043d\u0435 \u0440\u0435\u0436\u0435\u0442 \u0432 fullhd\n\u0422\u043e\u0440\u0433 \u0443\u043c\u0435\u0441\u0442\u0435\u043d",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR5X",
+            "BUS memorie": "192 bit"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "4 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368469135"
+    },
+    {
+        "ad_link": "https://999.md/ro/83890532",
+        "name": "Vand - GeForce EVGA GTX 1060 6gb - 100 eu",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/0d5026ffd46cb4e9010eed00ddbeb579.jpg",
+        "description": "Vand - GeForce EVGA GTX 1060 6GB - 100 eu\n\nLucreaza foarte bine.\nPlombele sunt prezente.\nAm si cutia cu toate manualele si disc cu drivere",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "100  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360023322"
+    },
+    {
+        "ad_link": "https://999.md/ro/84299603",
+        "name": "\u041d\u043e\u0432\u044b\u0439 Radeon 7900XT 20gb GDDR6 (320 bit)",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/a02aabbde61edf2fd4750eae6859c054.jpg",
+        "description": "\u041d\u043e\u0432\u0430\u044f \u0437\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u043d\u043d\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430.\n\n\u041d\u043e\u0432\u044b\u0439 AMD Radeon RX 7900XT  20gb GDDR6 (320 bit) Sapphire\n\n\nhttps://www.sapphiretech.com/ru-ru/consumer/pulse-radeon-rx-7900-xt-20g-gddr6",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "24 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "384 bit",
+            "Stare": "Nou"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360780568"
+    },
+    {
+        "ad_link": "https://999.md/ro/83756713",
+        "name": "Amd Radeon rx6600",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/ff0b26b273299d772b36fe8c8fec1588.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443, \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 10 \u0438\u0437 10. \u041f\u043e \u0432\u0441\u0435\u043c \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c \u043f\u0438\u0448\u0438\u0442\u0435 \u0441\u044e\u0434\u0430.",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "210  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37361049499"
+    },
+    {
+        "ad_link": "https://999.md/ro/83003087",
+        "name": "Asus Nvidia RTX 2060 OC 6GB",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/18e43030ea23af9778de7e834286c5e2.jpg",
+        "description": "Se vinde aceasta videocartela,practic noua. Eu sunt primul proprietar.Este intr-o stare ideala,plombele pe loc. Posibil gasesc si cutia.\nLucreaza absolut tot, consum minim. Probleme nu are,testam absolut tot ce doriti.\nMai multa informatie la telefon sau prin mesaj\nNegociabil",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "6 GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "192 bit"
+        },
+        "Porturi": [
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "5 100  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360202000"
+    },
+    {
+        "ad_link": "https://999.md/ro/83986429",
+        "name": "Gigabyte aorus radeon rx 6700 xt elite 12gb 192",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/90dd61b9d32bd2e81d70015f5589e3d0.jpg",
+        "description": "Spre vanzare GIGABYTE AORUS Radeon RX 6700 XT ELITE 12G Graphics Card, WINDFORCE 3X Cooling System, 12GB 192-bit GDDR6, GV-R67XTAORUS E-12GD Video Card\n\nProdusul este absolut nou, nu a fost folosit in PC\nFiind procurat din SUA de pe site\nAu fost procurate pentru mining \u00eens\u0103 \u00een Republica Moldova au ajuns prea t\u00eerziu \u0219i deja nu mai este actual!\ncutie si restul stickerilor au fost aruncate din motivul c\u0103 nu credeam ca va fi necesara v\u00eenzarea acestora.\nGaran\u021bie are oficial\u0103 pe siteul din SUA \u0219i \u00een caz de necesitate putem s\u0103 ii contactam\nLa pre\u021b se cedeaz\u0103 simbolic\nAu fost procurate la pre\u021b de 700$ buc ( f\u0103r\u0103 livrare \u0219i devamare )\n\n\u041f\u0440\u043e\u0434\u0430\u0435\u0442\u0441\u044f GIGABYTE AORUS Radeon RX 6700 XT ELITE 12G Graphics Card, WINDFORCE 3X Cooling System, 12GB 192-bit GDDR6, GV-R67XTAORUS E-12GD Video Card\n\u041d\u043e\u0432\u0430\u044f \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430 \u043d\u0435\u0431\u044b\u043b\u0430 \u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u041f\u041a\n\u0411\u044b\u043b\u0430 \u043a\u0443\u043f\u043b\u0435\u043d\u0430 \u0438\u0437 \u0421\u0428\u0410\n\u041a\u0443\u043f\u043b\u0435\u043d\u0430 \u0434\u043b\u044f \u043c\u0430\u0438\u043d\u0438\u043d\u0433\u0430 \u043d\u043e \u043a \u0441\u043e\u0436\u0435\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u0438\u0435\u0445\u0430\u043b\u0430 \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u0437\u0434\u043d\u043e \u0432 \u041c\u043e\u043b\u0434\u043e\u0432\u0435 \u0438 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0446\u0435\u043d\u0430\u043c\u0438 \u043d\u0435 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\n\u0411\u0435\u0437 \u043a\u043e\u0440\u043e\u0431\u043a\u0438 \u0438 \u0441\u0442\u0438\u043a\u0435\u0440\u043e\u0432 \u044f \u0438\u0445 \u0432\u044b\u0431\u0440\u043e\u0441\u0438\u043b \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u044f \u043e\u0442 \u0441\u0430\u0439\u0442\u0430 newegg usa \u043e\u0442 \u0442\u0443\u0434\u0430 \u0431\u044b\u043b\u0430 \u043a\u0443\u043f\u043b\u0435\u043d\u043e \u0432 \u043c\u043e\u043b\u0434\u043e\u0432\u0435 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0434\u0438\u043b\u0435\u0440\u0430 \u0443 \u043d\u0438\u0445 \u043d\u0435\u0442\u0443!\n\u0411\u044b\u043b\u0430 \u043a\u0443\u043f\u043b\u0435\u043d\u0430 \u043d\u0430 \u043c\u043d\u043e\u0433\u043e \u0434\u043e\u0440\u043e\u0436\u0435\n\nhttps://www.gigabyte.com/Graphics-Card/GV-R67XTAORUS-E-12GD#kf\n\n\nSigilile sunt la loc! Trecem orice verificare\n\u041f\u043b\u043e\u043c\u0431\u044b \u0430\u0441\u0435 \u043d\u0430 \u043c\u0435\u0441\u0442\u0435! \u041f\u0440\u043e\u0439\u0434\u0435\u043c \u043b\u044e\u0431\u0443\u044e \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0443",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "12 GB"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "360  \u20ac",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368924293"
+    },
+    {
+        "ad_link": "https://999.md/ro/83983380",
+        "name": "ASUS TUF Gaming GTX 1650 SUPER 4GB GDDR6 - garantie magazin 30.12.2024",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/d627de1d2bbd9a22329bd2b25752294a.jpg",
+        "description": "Vind placa video ASUS TUF GTX 1650 SUPER 4GB GDDR6.\n\nStare ideala, ca noua. \nNici pelicula de pe ea nu am scos. \n\nCumparata cu 8700 MDL pe 30.12.2021. \nGarantia de la magazin din Moldova valabila pina in 30.12.2024.\n\nFullHD 1920x1080 mai mult de 60 fps in toate jocurile noi. \n\nhttps://www.youtube.com/watch?v=G2hQRhKonE4",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR6",
+            "BUS memorie": "128 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "4 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37368085870"
+    },
+    {
+        "ad_link": "https://999.md/ro/84328665",
+        "name": "\u041f\u0440\u043e\u0434\u0430\u043c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442 PCI-E \u0438 AGP",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/48238d08edba4d4e9207bd8b54810a2c.jpg",
+        "description": "\u043f\u0440\u043e\u0434\u0430\u043c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442 PCI-E \u0438 AGP (\u0432\u0441\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442), \u043d\u0430 \u0444\u043e\u0442\u043e \u043e\u043d\u0438:\n-----------------------------------------------------------------------------------------------------\n1) HIS ATI HD4650 (H465FC1GH) 1GB DDR3 128bit - 750 \u043b\u0435\u0439 (\u0444\u043e\u0442\u043e 1) HDMI, DVI-I, VGA\nhttp://www.hisdigital.com/ca/product2-569.shtml\n2) ATI HD 6670 (MS-V253 ver) 512MB DDR5 128bit  - 750 \u043b\u0435\u0439 (\u0444\u043e\u0442\u043e 2) HDMI, DVI-D, VGA\nhttps://www.ebay.com/itm/175370820934\n3) ATI HD 2600PRO 256MB DDR2 128bit - 250 \u043b\u0435\u0439 (\u0444\u043e\u0442\u043e 3)   2 x DVI-I\n======================================================================\n\u043f\u0440\u043e\u0434\u0430\u043c \u043f\u0430\u0440\u0443 \u0441\u0442\u0430\u0440\u044b\u0445 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442 AGP (\u0432\u0441\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442) \u043d\u0430 \u0432\u0442\u043e\u0440\u043e\u043c \u0444\u043e\u0442\u043e \u043e\u043d\u0438:\n1) GeForce MX440 64mb - 100 \u043b\u0435\u0439 (\u0444\u043e\u0442\u043e 4, \u0432\u0435\u0440\u0445\u043d\u044f\u044f)\n2) \u0442\u0430 \u0447\u0442\u043e \u043d\u0430 4 \u0444\u043e\u0442\u043e, \u043d\u0438\u0436\u043d\u044f\u044f - 75 \u043b\u0435\u0439",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "1 GB",
+            "Tip memorie": "GDDR3",
+            "BUS memorie": "128 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "750  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379992594"
+    },
+    {
+        "ad_link": "https://999.md/ro/84187069",
+        "name": "XFX Amd HD 5870 - 2 GB",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/fa6224119e090a368fde8f64e38d1a91.jpg",
+        "description": "\u041f\u0440\u043e\u0434\u0430\u043c \u043d\u0435\u0434\u043e\u0440\u043e\u0433\u043e \u0440\u0435\u0444\u0435\u0440\u0435\u043d\u0441\u043d\u0443\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 XFX Ati Radeon HD 5870 - 2GB / 256 bit\n\n\u041f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u043e \u0422/\u041e - \u0437\u0430\u043c\u0435\u043d\u0435\u043d\u0430 \u0422\u0435\u0440\u043c\u043e\u043f\u0430\u0441\u0442\u0430!!\n\n\u041ft\u0440\u0435\u0445\u043e\u0434\u043d\u0438\u043a HDMI to DisplayPort \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!!\n\n\n\u041f\u0440\u043e\u0448\u0443 800 \u043b\u0435\u0439",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "2 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "799  lei",
+        "region": "Moldova B\u0103l\u021bi mun.",
+        "contact": "tel:+37367519417"
+    },
+    {
+        "ad_link": "https://999.md/ro/84327928",
+        "name": "Zotac 1050 ti",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/637e0dc4e30baa1f5e5d1c1af28caa0f.jpg",
+        "description": "\u0412 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435",
+        "Caracteristici principale": {
+            "Tip procesor": "Intel",
+            "Capacitate memorie": "4GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 100  lei",
+        "region": "Moldova Anenii Noi",
+        "contact": "tel:+37369553911"
+    },
+    {
+        "ad_link": "https://999.md/ro/84327559",
+        "name": "\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u044b - \u0441\u043a\u0438\u0434\u043a\u0438 \u043d\u0430 \u0432\u0441\u0435 \u043c\u043e\u0434\u0435\u043b\u0438!",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/b5d1b47bbb66d42236f34051980e6e0a.jpg",
+        "description": "www.gsmshop.md\n\n\u0417\u0430\u0445\u043e\u0434\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442 www.gsmshop.md \u0438 \u041f\u041e\u041a\u0423\u041f\u0410\u0419 \u043a\u0440\u0443\u0442\u0443\u044e \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0443 \u043f\u043e \u0421\u0423\u041f\u0415\u0420 \u0426\u0415\u041d\u0415 !!!\n\n\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u043c\u043e\u0434\u0435\u043b\u044c \u0438 \u041a\u0423\u041f\u0418\u0422\u042c \u0414\u0401\u0428\u0415\u0412\u041e \u043c\u043e\u0436\u043d\u043e \u043f\u043e \u0441\u0441\u044b\u043b\u043a\u0435  -->  https://www.gsmshop.md/category/view/vga.html\nwww.gsmshop.md\n\n\u041f\u0440\u043e\u0434\u0430\u0435\u043c \u0432 \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0443 0% !!!\nVindem in rate cu 0% !!!\n\n\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u044f !!!\nGarantie oficiala !!!\n\n\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u041c\u043e\u043b\u0434\u043e\u0432\u0435 !!!\nLivram in toata Moldova !!!\n\n\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u0432 \u043a\u0440\u0435\u0434\u0438\u0442 \u043d\u0430 \u043b\u0443\u0447\u0448\u0438\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 - \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u0432\u044b\u0433\u043e\u0434\u043d\u043e !!!\nVindem in credit avantajos pina la 24 luni !!!\n\nwww.gsmshop.md\n\nIntra pe www.gsmshop.md si CUMPARA placa video performanta la PRET EXCEPTIONAL !!!\n\nAlege model si cumpara IEFTIN aici  -->  https://www.gsmshop.md/ro/category/view/vga.html\nwww.gsmshop.md",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA"
+        },
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "negociabil",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37379115411"
+    },
+    {
+        "ad_link": "https://999.md/ro/84327517",
+        "name": "Asus Rog Strix GTX 1080 TI",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/a47e76c7f31cdb67a496014fe2e516a0.jpg",
+        "description": "V\u00eend cartea video gtx 1080Ti \nAre \u0219i cutie\nLa pre\u021b se mai discut\u0103 \nAccept \u0219i schimb",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "12 GB",
+            "Tip memorie": "GDDR5X",
+            "BUS memorie": "384 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "Display port",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "4 000  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37367461120"
+    },
+    {
+        "ad_link": "https://999.md/ro/84327389",
+        "name": "Sapphire rx 580 8 gb",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/257257f3236090263a2de965292b5a55.jpg",
+        "description": "Sapphire rx 580 8 gb\nvand  placa  video in stare  foarte buna, termopasta a  fost schimbata 2 ani in urma, de  la service stau plombele\nJocurile  moderne  merg fara  probleme  la  presetul medium-hight, unele  merg la  Ultra  si la  Cinema Quality\npretul este  un pic  negociabil, accept  propuneri\n\nCardul a  fost folosit cel mai mult in Dota 2 , in mining  nu a  fost !\nAccept orice testare",
+        "Caracteristici principale": {
+            "Tip procesor": "AMD/ATI",
+            "Capacitate memorie": "8 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "256 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "Display port"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "2 200  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37360403060"
+    },
+    {
+        "ad_link": "https://999.md/ro/84327186",
+        "name": "Plac\u0103 Video Gigabyte GV-N550D5-1GI GTX 550-ti",
+        "image_link": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/252d3cb718d8c93ed50018c573a27fdb.jpg",
+        "description": "V\u00e2nd placa video Gigabyte GV-N550D5-1GI, o alegere excelent\u0103 pentru cei care caut\u0103 o solu\u021bie de gaming sau grafic\u0103 la un buget accesibil. \n\nSpecifica\u021bii cheie:\n\nProcesor Grafic (GPU): NVIDIA GeForce GTX 550 Ti\nMemorie Video: 1 GB GDDR5\nInterfe\u021be: PCI Express 2.0 x16\nConectori Video: DVI-I, HDMI, VGA \nSuport DirectX: 11\nSuport OpenGL: 4.1\n\nhttps://www.gigabyte.com/Graphics-Card/GV-N550D5-1GI#ov\n\nContactati mai rapid pe telegram",
+        "Caracteristici principale": {
+            "Tip procesor": "NVIDIA",
+            "Capacitate memorie": "1 GB",
+            "Tip memorie": "GDDR5",
+            "BUS memorie": "192 bit",
+            "Stare": "La m\u00e2na a doua"
+        },
+        "Porturi": [
+            "D-Sub (VGA)",
+            "DVI",
+            "HDMI"
+        ],
+        "Subcategorie": "Pl\u0103ci video",
+        "price": "600  lei",
+        "region": "Moldova Chi\u0219in\u0103u mun.",
+        "contact": "tel:+37378256608"
+    }
+]
