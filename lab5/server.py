@@ -6,7 +6,7 @@ import os
 EIGHT_MEGABYTES = 8388608
 
 HOST = '127.0.0.1'
-PORT = 12345
+PORT = 12346
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
@@ -96,20 +96,23 @@ def handle_client(client_socket : socket, client_address):
             
         elif _type == "download file":
             file_name = struct["file name"]
+            file_path = f"./SERVER_MEDIA/{file_name}"
             files = os.listdir("./SERVER_MEDIA")
             if file_name in files:
-                file_size = os.path.getsize(file_name)
+                file_size = os.path.getsize(file_path)
                 struct = {
                     "type" : "file found",
                     "file size" : file_size
                 }
                 response_message = json.dumps(struct).encode('utf-8')
                 client_socket.send(response_message)
+                print("file found")
                 message = client_socket.recv(1024).decode('utf-8')
                 struct = json.loads(message)
                 type = struct["type"]
+                print(type)
                 if type == "download confirm":
-                    f = open(f"./SERVER_MEDIA/{file_name}", "rb")
+                    f = open(file_path, "rb")
                     file_content = f.read()
                     client_socket.send(file_content)
                     f.close()
