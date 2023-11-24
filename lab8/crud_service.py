@@ -10,6 +10,7 @@ from uuid import uuid4
 import requests
 from flask import request, Flask
 
+
 query = Query()
 
 max_followers = 2
@@ -76,7 +77,7 @@ class Service:
     def init_database(self):
         self.db = TinyDB(self.dbfile)
 
-    def create_product(self):
+    def create_product(self, request):
         try:
             print("request", request.get_json())
         except Exception as e:
@@ -114,12 +115,14 @@ class Service:
             headers = request.headers
             try:
                 if headers["Token"] == "Leader":
-                    pass
-                else:
                     self.db.insert(product_info)
                     return {
                         "message" : "Product Creation Succesful"
                     }, 200
+                else:
+                    return {
+                        "message" : "Access Denied"
+                    }, 403
             except:
                 return {
                     "message" : "Access Denied"
@@ -154,16 +157,19 @@ class Service:
                 }, 500
 
         elif self.role == "follower":
+            print("received")
             product_info = request.json
             headers = request.headers
             try:
                 if headers["Token"] == "Leader":
-                    pass
-                else:
                     self.db.update(product_info, query.id == product_info["id"])
                     return {
                         "message" : "Product Update Succesful"
                     }, 200
+                else:
+                    return {
+                        "message" : "Access Denied"
+                    }, 403
             except:
                 return {
                     "message" : "Access Denied"
@@ -202,12 +208,14 @@ class Service:
             headers = request.headers
             try:
                 if headers["Token"] == "Leader":
-                    pass
-                else:
                     self.db.remove(query.id == product_info["id"])
                     return {
                         "message" : "Product Deletion Succesful"
                     }, 200
+                else:
+                    return {
+                        "message" : "Access Denied"
+                    }, 403
             except:
                 return {
                     "message" : "Access Denied"
