@@ -1,14 +1,9 @@
 import socket
 import json
-from time import sleep
-import random
 from routing import do_routing
 from tinydb import TinyDB, Query
-from tinydb.operations import delete
-from os.path import isfile
-from uuid import uuid4
 import requests
-from flask import request, Flask
+
 
 
 query = Query()
